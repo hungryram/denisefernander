@@ -1,0 +1,258 @@
+/* GLOBAL */
+
+@font-face {
+    font-family: moon;
+    src: url("/fonts/MoonTime-Regular.otf");
+  }
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
+}
+
+@media screen and (min-width: 1087px){
+    div.container.is-fluid {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+p strong {
+    color: #26999C
+}
+
+content h1.subtitle {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1.subtitle,
+h2.subtitle,
+h3.subtitle,
+h4.subtitle,
+h5.subtitle,
+h6.subtitle {
+    font-family: 'moon', serif;
+    color: #26999C;
+    font-size: 3em;
+}
+
+h1.page-title,
+.content h1.title,
+.content h2.title,
+.content h3.title,
+.content h4.title,
+.content h5.title,
+.content h6.title,
+div.content h1,
+div.content h2,
+div.content h3,
+div.content h4,
+div.content h5,
+div.content h6,
+body .content h1,
+body .content h2,
+body .content h3,
+body .content h4,
+body .content h5,
+body .content h6,
+h1.title,
+h2.title,
+h3.title,
+h4.title,
+h5.title,
+h6.title {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 span {
+    color: #26999C;
+}
+
+p > a {
+    color: #7F1010;
+    text-decoration: underline;
+}
+
+div.page-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p.is-size-7 {
+    font-size: .85rem!important;
+}
+
+a.has-text-gray {
+    color: #4a4a4a;
+}
+
+body p {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.big-section {
+    padding: 6rem 1.5rem;
+}
+
+a.primary-btn {
+    background: #26999C;
+    color: #fff;
+    border: 1px solid #26999C;
+    padding: 20px 45px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: .3s ease;
+    font-size: 14px;
+}
+
+a.secondary-btn {
+    background: #fff;
+    padding: 20px 45px;
+    color: #EF9FB4;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    transition: .3s ease;
+    font-weight: 500;
+}
+
+a.secondary-btn:hover {
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    transition: .3s ease;
+}
+
+a.primary-btn:hover {
+    background: transparent;
+    transition: .3s ease;
+    color: #26999C;
+}
+
+button.primary-btn {
+    box-shadow: none;
+    border: none;
+    width: 200px;
+}
+
+a.border-button {
+    color: #EF9FB4;
+    border-bottom: 2px solid #EF9FB4;
+    padding-bottom: 5px;
+}
+
+/* OVERWRITE */
+
+@media screen and (min-width: 1024px){
+    nav.navbar {
+        min-height: 5.25rem;
+    }
+}
+
+@media screen and (min-width: 1408px){
+    div.container {
+        max-width: 1200px;
+    }
+}
+
+/* NAVBAR */
+
+div.top-bar {
+    background: #26999C;
+    color: #fff;
+}
+
+a.navbar-item img {
+    max-height: 4.75rem;
+}
+
+a.navbar-item,
+a.navbar-link {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    transition: .3s;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+a.navbar-item:hover,
+a.navbar-link:hover {
+    color: #ef9fb4;
+    transition: .3s;
+}
+
+/* HERO */
+
+/* @media screen and (min-width: 1087px){
+    div.hero-right {
+        width: 70%;
+    }
+
+    div.hero-subtitle {
+        background:white;
+        margin-left: -100px;
+        padding: 10px;
+        margin-bottom:10px;
+        width: 50%;
+    }
+
+    div.hero-subtitle h3.subtitle {
+        border: 1px solid #EF9FB4;
+        padding: 10px;
+    }
+}
+
+div.hero-right hr {
+    background-color: #EF9FB4;
+    height:1px;
+} */
+
+div.hero-foot {
+    background: #26999C;
+    padding: 20px;
+}
+
+/* INTRO */
+
+
+/* COURSE */
+
+div.numbers h1.title {
+    color: #ccc;
+    font-size: 3em!important;
+}
+
+div.numbers p {
+    font-family: "Playfair Display", serif;
+}
+
+
+
+/* ALERT / TESTIMONIAL */
+
+div.border {
+    border: 1px solid #fff;
+    padding: 20px;
+}
+
+/* FOOTER */
+
+footer.footer {
+    padding: 3rem 1.5rem 2rem;
+}
+
+div.top-footer {
+    background: #ef9fb4;
+}
+
+ul.footer-social {
+    margin-top: 10px;
+}
+
+ul.footer-social li {
+    display: inline-block;
+    margin: 10px;
+}
