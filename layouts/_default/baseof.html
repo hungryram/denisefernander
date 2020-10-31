@@ -6,6 +6,8 @@
             <div class="columns">
                 <div class="column has-text-centered">
                     <h1 class="title is-2 is-size-4-mobile has-text-white is-uppercase has-text-weight-normal">{{ .Title }}</h1>
+                    {{ if .Params.date }}<h6 class="subtitle is-2">{{.Date.Format "January 2, 2006" }}</h6>{{ end }}
+
                 </div>
             </div>
         </div>

@@ -17,9 +17,11 @@ body {
     }
 }
 
-p strong {
+p strong,
+.primary-color {
     color: #26999C
 }
+
 
 content h1.subtitle {
     font-family: 'Montserrat', sans-serif;
@@ -164,6 +166,10 @@ div.top-bar {
     color: #fff;
 }
 
+div.navbar-brand {
+    align-items: center;
+}
+
 a.navbar-item img {
     max-height: 4.75rem;
 }
@@ -182,6 +188,12 @@ a.navbar-item:hover,
 a.navbar-link:hover {
     color: #ef9fb4;
     transition: .3s;
+}
+
+@media screen and (max-width: 1087px){
+    a.navbar-item, a.navbar-link {
+        color: #000;
+    }
 }
 
 /* HERO */
@@ -237,6 +249,49 @@ div.border {
     border: 1px solid #fff;
     padding: 20px;
 }
+
+
+/* PAGINATION */
+
+.pagination li a {
+    transition: all .3s ease;
+    color: #f16397;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.pagination li:hover a {
+    background: #ffdbe8;
+    transition: all .3s ease;
+}
+
+ul.pagination {
+    justify-content: center;
+}
+
+li.page-item {
+    padding: 2px;
+    font-size: 14px;
+}
+
+.pagination-next,
+.pagination-previous {
+    background: transparent;
+}
+
+a.pagination-link, a.pagination-next, a.pagination-previous {
+    border-color: transparent;
+}
+
+li.page-item.active {
+    border-bottom: 1px solid #ffdbe8;
+}
+
+li.page-item.disabled {
+    display: none;
+}
+
 
 /* FOOTER */
 
