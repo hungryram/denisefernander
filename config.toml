@@ -12,3 +12,7 @@ weight = 2
 name = "Success Academy"
 url = "/"
 weight = 3
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 4
