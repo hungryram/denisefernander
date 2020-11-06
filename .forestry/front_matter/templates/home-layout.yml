@@ -69,16 +69,30 @@ fields:
     config:
       maxSize: 2
     label: Image
-  - name: subtitle
-    type: text
-    config:
-      required: false
-    label: Subtitle
   - name: image_alt_tag
     type: text
     config:
       required: false
     label: Image Alt Tag
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Body
   - name: button_text
     type: text
     config:
