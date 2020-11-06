@@ -17,16 +17,61 @@ introduction:
   subtitle: " Hello There!"
   image: "/uploads/2.jpg"
   image_alt_tag: Denise Fernander
-  button_text: ''
-  button_link: ''
+  button_text: Schedule Appointment
+  button_link: https://calendly.com/mompreneursuccessacademy/biz-strategy-call
+  heading: I'm Denise Fernander
+  body: |-
+    I’m an educator, certified speaker & accountability coach with MOMpreneur Success Academy. I help other mom entrepreneurs get clear and in 90 days grow their business toward their first $100K! I’m a former classroom teacher, online teacher, curriculum & instructional designer. I have also worked as a business & educational consultant for over 20 years.
+
+    My experience in business, coaching, speaking, teaching, and curriculum design and relationship-building provided me the skills to help clients hone in on their passion, EXACTLY what their community wants and needs and help them build and grow a successful and sustainable online business. My greatest asset is my know howand experience!
+
+    Are you **READY** for your **SUCCESS**?
 testimonial:
-  testimonials: []
+  testimonials:
+  - name: Monique
+    review: Investing in the MOMpreneur Success Academy program was the best thing
+      I did for my business in 2020. Denise helped take me from just having a vision
+      to 5 figures in just over 3 weeks of releasing my program!
+  - name: Monique
+    review: |-
+      Investing in the MOMpreneur Success Academy program was the best thing I did for my business in 2020. Denise helped take me from just having a vision to 5 figures in just over 3 weeks of releasing my program!
+
+      __
+  - name: Monique
+    review: |-
+      Investing in the MOMpreneur Success Academy program was the best thing I did for my business in 2020. Denise helped take me from just having a vision to 5 figures in just over 3 weeks of releasing my program!
+
+      __
+  - name: Monique
+    review: |-
+      Investing in the MOMpreneur Success Academy program was the best thing I did for my business in 2020. Denise helped take me from just having a vision to 5 figures in just over 3 weeks of releasing my program!
+
+      __
 information:
-  subtitle: ''
-  heading: ''
-  body: ''
-  steps: []
+  subtitle: 12 week online roadmap
+  heading: Mompreneur Success Academy
+  body: |-
+    Are you a mom entrepreneur struggling to balance your family and work life?
+
+    Do you find it hard to get your tasks done and as a result you’re missing your financial goals?
+
+    We can help. We help MOM, entrepreneurs 1) get clear about what they want, 2) set goals and 3) reach them!
+
+    Join us and get your business on the path to success in less than **90 days!**
+  steps:
+  - number: '01'
+    heading: Three 1:1 coaching calls
+  - number: '02'
+    heading: weekly group coaching calls
+  - number: '03'
+    heading: online business roadmap course
+  - number: '04'
+    heading: unlimited video chat/email support
+  - number: '05'
+    heading: unlimited video chat/email support
+  - number: '06'
+    heading: unlimited video chat/email support
 banner:
-  heading: ''
-  button_text: ''
-  button_link: ''
+  heading: Still need some clarity? Let's talk
+  button_text: Book Now
+  button_link: https://calendly.com/mompreneursuccessacademy/biz-strategy-call
