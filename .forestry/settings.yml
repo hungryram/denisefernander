@@ -10,6 +10,10 @@ sections:
 - type: document
   path: data/appearance.yaml
   label: Appearance
+- type: document
+  path: data/homelayout.yaml
+  label: Home Layout
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
