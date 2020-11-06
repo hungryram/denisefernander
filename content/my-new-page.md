@@ -5,4 +5,10 @@ meta_description = "Are you a mom, entrepreneur looking to start and/or grow you
 title_tag = "MOMpreneur Success Academy - Reach your first 5 figures in 90 days."
 
 +++
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam tempora libero nobis numquam? Nesciunt illo fugit, nisi eum enim, tempore vitae at voluptatibus aliquid ea cupiditate quos, iste molestiae laudantium!Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam tempora libero nobis numquam? Nesciunt illo fugit, nisi eum enim, tempore vitae at voluptatibus aliquid ea cupiditate quos, iste molestiae laudantium!Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam tempora libero nobis numquam? Nesciunt illo fugit, nisi eum enim, tempore vitae at voluptatibus aliquid ea cupiditate quos, iste molestiae laudantium!Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam tempora libero nobis numquam? Nesciunt illo fugit, nisi eum enim, tempore vitae at voluptatibus aliquid ea cupiditate quos, iste molestiae laudantium!
+MOMpreneurship Success Academy is a network and community of mom entrepreneurs, like you, who are ready to launch and/or grow their business to their first 5 figures in 90 days.
+
+Bringing 20 years plus experience in teaching, coaching, speaking, curriculum design, entrepreneurship and relationship-building, Denise Fernander helps members hone in on their passion, discover exactly what their community wants and needs and helps them build and grow a successful and sustainable business.
+
+MOMpreneurship Success Academy’s program helps mompreneurs launch and advance their business through group coaching, brand/business strategy development, accountability coaching, online content/course guidance and the community and support of other program members.
+
+Welcome!
