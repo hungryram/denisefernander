@@ -1,5 +1,5 @@
 +++
-title = "My New Page"
+title = "MOMpreneur Success Academy"
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""
