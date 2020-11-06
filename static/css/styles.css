@@ -18,7 +18,10 @@ body {
 }
 
 p strong,
-.primary-color {
+.primary-color,
+p a,
+.content a,
+.content strong {
     color: #26999C
 }
 
@@ -98,6 +101,21 @@ body p {
     padding: 6rem 1.5rem;
 }
 
+button.button {
+    background: #F2AFC0;
+    color: #fff;
+    padding: 25px;
+    width: 100%;
+    transition: .3s;
+    border: 1px solid #F2AFC0;
+}
+
+button.button:hover {
+    transition: .3s;
+    border: 1px solid #F2AFC0;
+    background: transparent;
+}
+
 a.primary-btn {
     background: #26999C;
     color: #fff;
@@ -172,6 +190,12 @@ div.navbar-brand {
 
 a.navbar-item img {
     max-height: 4.75rem;
+}
+
+@media screen and (min-width: 1087px){
+    a.navbar-item img {
+        max-height: 6.75rem;
+    }
 }
 
 a.navbar-item,

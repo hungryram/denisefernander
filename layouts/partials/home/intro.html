@@ -1,19 +1,24 @@
+{{ $intro := .Site.Data.homelayout.introduction }}
 <div class="bg-section" style="background:linear-gradient(rgba(255,255,255,0.9),rgba(255,255,255,.9)),url(/uploads/drop.jpg) no-repeat center;background-size:cover">
     <div class="big-section">
         <div class="container">
             <div class="columns is-vcentered is-variable is-8">
                 <div class="column has-text-centered">
-                    <img src="/uploads/2.jpg" alt="">
+                    <img src="{{ $intro.image }}" alt="{{ $intro.image_alt_tag }}">
                 </div>
                 <div class="column">
-                    <h1 class="subtitle is-1">Hello There!</h1>
-                    <h1 class="title is-3">I'm Denise Fernander</h1>
+                    {{ if $intro.subtitle }}<h1 class="subtitle is-1">{{ $intro.subtitle }}</h1>{{ end }}
+                    {{ if $intro.heading }}<h1 class="title is-3">{{ $intro.heading }}</h1>{{ end }}
                     <div class="content">
-                        <p>I’m an educator, certified speaker & accountability coach with MOMpreneur Success Academy. I help other mom entrepreneurs get clear and in 90 days grow their business toward their first $100K! I’m a former classroom teacher, online teacher, curriculum & instructional designer. I have also worked as a business & educational consultant for over 20 years.</p>
-                        <p>My experience in business, coaching, speaking, teaching, and curriculum design and relationship-building provided me the skills to help clients hone in on their passion, EXACTLY what their community wants and needs and help them build and grow a successful and sustainable online business. My greatest asset is my know howand experience!</p>
-                        <p class="cta-p">Are you <strong>READY</strong> for your <strong>SUCCESS</strong>?</p>
+                        {{ if $intro.body }}
+                        {{ $intro.body | markdownify }}
+                        {{ end }}
                         <br>
-                        <a href="" class="primary-btn">Schedule a Consultation</a>
+                        {{ if $intro.button_link }}
+                        <div class="is-block">
+                            <a href="" class="primary-btn">{{ $intro.button_text }}</a>
+                        </div>
+                        {{ end }}
                     </div>
                 </div>
             </div>

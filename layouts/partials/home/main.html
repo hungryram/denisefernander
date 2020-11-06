@@ -1,17 +1,22 @@
-    <section class="hero is-fullheight-with-navbar" style="background:url(/uploads/newbg.jpg) no-repeat right;background-size:cover;">
+{{ $hero := .Site.Data.homelayout.hero_image }}
+    <section class="hero is-fullheight-with-navbar" style="background:url(/uploads/newbg.jpg) no-repeat;background-size:cover;background-position:80%">
         {{ partial "global/navbar" . }}
         <div class="hero-body">
           <div class="container">
             <div class="columns">
                 <div class="column is-half has-text-white">
                     <h2 class="subtitle" style="color: #ef9fb4;font-size: 4em;">
-                        Welcome to
+                       {{ $hero.subtitle }}
                     </h2>
-                    <h1 class="title is-3 has-text-white">MOMpreneur Success Academy</h1>
+                    <h1 class="title is-3 has-text-white">{{ $hero.heading }}</h1>
     
-                    <p>Our service techs are clean, courteous, polite and hard working. Get those nasty stains and terrible odors out of your carpet today!</p>
+                    <p>{{ $hero.body | markdownify }}</p>
                     <br>
-                    <a href="https://calendly.com/mompreneursuccessacademy/biz-strategy-call" target="_blank" class="primary-btn">Book Apppointment</a>
+                    {{ if $hero.link }}
+                    <div class="is-block">
+                      <a href="{{ $hero.link }}" target="_blank" class="primary-btn">{{ $hero.link_text }}</a>
+                    </div>
+                    {{ end }}
                 </div>
             </div>
           </div>

@@ -2,14 +2,15 @@
 {{ $footerLocation := .Site.Data.profile.location_information }}
 {{ $footerDesign := .Site.Data.design.footer }}
 {{ $footerSocial := .Site.Data.profile.social_media }}
+{{ $banner := .Site.Data.homelayout.banner }}
 <div class="section top-footer">
   <div class="container">
     <div class="columns">
       <div class="column">
-        <h1 class="title is-4 has-text-white">Still need some clarity? Let's talk</h1>
+        {{ if $banner.heading }}<h1 class="title is-4 has-text-white">{{ $banner.heading }}</h1>{{ end }}
       </div>
       <div class="column has-text-centered">
-        <a href="" class="secondary-btn">Get in touch</a>
+        {{ if $banner.button_link }}<a href="{{ $banner.button_link }}" class="secondary-btn" target="_blank">{{ $banner.button_text }}</a>{{ end }}
       </div>
     </div>
   </div>
