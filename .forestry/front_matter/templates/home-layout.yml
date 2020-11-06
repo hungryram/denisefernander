@@ -1,4 +1,181 @@
 ---
 label: Home Layout
 hide_body: true
-fields: []
+fields:
+- name: hero_image
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 2
+    label: Image
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Body
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  - name: link_text
+    type: text
+    config:
+      required: false
+    label: Link Text
+  label: Hero Image
+- name: hero_banner
+  type: field_group
+  config: {}
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Body
+  label: Hero Banner
+- name: introduction
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 2
+    label: Image
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
+  - name: image_alt_tag
+    type: text
+    config:
+      required: false
+    label: Image Alt Tag
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  - name: button_link
+    type: text
+    config:
+      required: false
+    label: Button Link
+  label: Introduction
+- name: testimonial
+  type: field_group
+  config: {}
+  fields:
+  - name: testimonials
+    type: field_group_list
+    fields:
+    - name: name
+      type: text
+      config:
+        required: false
+      label: Name
+    - name: review
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: Review
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Testimonials
+  label: Testimonial
+- name: information
+  type: field_group
+  config: {}
+  fields:
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Body
+  - name: steps
+    type: field_group_list
+    fields:
+    - name: number
+      type: text
+      config:
+        required: false
+      label: Number
+    - name: heading
+      type: text
+      config:
+        required: false
+      label: Heading
+    config:
+      min: 
+      max: 
+      labelField: heading
+    label: Steps
+  label: Information
+- name: banner
+  type: field_group
+  config: {}
+  fields:
+  - name: heading
+    type: text
+    config:
+      required: false
+    label: Heading
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  - name: button_link
+    type: text
+    config:
+      required: false
+    label: Button Link
+  label: Banner
