@@ -1,5 +1,8 @@
 +++
 title = "MOMpreneur Success Academy"
+[menu.main]
+name = "Success Academy"
+weight = 3
 [search_engine_optimization]
 meta_description = "Are you a mom, entrepreneur looking to start and/or grow your first 5 figures in 90 days? Need help staying productive and balancing being a mom and a boss?"
 title_tag = "MOMpreneur Success Academy - Reach your first 5 figures in 90 days."

@@ -10,10 +10,6 @@ name = "Blog"
 url = "/blog"
 weight = 4
 [[menu.main]]
-name = "Success Academy"
-url = "/"
-weight = 3
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
