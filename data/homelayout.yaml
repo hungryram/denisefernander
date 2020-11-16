@@ -3,10 +3,11 @@ hero_image:
   image: "/uploads/newbg.jpg"
   subtitle: Welcome to
   heading: MOMpreneur Success Academy
-  body: |-
-    We help mom, entrepreneurs get clear, set goals and reach them. Whether it's help staying focused and on track with your business or you need help getting your mindset right or getting your vision, message and/or brand clear, this is the right place for you.
-
-    We offer resources, courses, and programs to help and support and get you unstuck and on track to your first $100K in your business.
+  body: We help mom, entrepreneurs get clear, set goals and reach them. Whether it's
+    help staying focused and on track with your business or you need help getting
+    your mindset right or getting your vision, message and/or brand clear, this is
+    the right place for you. We offer resources, courses, and programs to help and
+    support and get you unstuck and on track to your first $100K in your business.
   link: https://calendly.com/mompreneursuccessacademy/biz-strategy-call
   link_text: Book Appointment
 hero_banner:
