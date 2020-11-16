@@ -75,3 +75,7 @@ banner:
   heading: Still need some clarity? Let's talk
   button_text: Book Now
   button_link: https://calendly.com/mompreneursuccessacademy/biz-strategy-call
+menu:
+  main:
+    name: About
+    weight: 2
