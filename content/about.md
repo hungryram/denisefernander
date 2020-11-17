@@ -1,5 +1,7 @@
 +++
 title = "About"
+[menu.main]
+weight = 2
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""
