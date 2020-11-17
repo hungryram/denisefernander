@@ -18,4 +18,5 @@ fields:
     label: SEO
   label: Search Engine Optimization
 pages:
+- content/about.md
 - content/my-new-page.md
