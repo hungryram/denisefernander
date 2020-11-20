@@ -193,5 +193,3 @@ fields:
       required: false
     label: Button Link
   label: Banner
-pages:
-- data/homelayout.yaml
