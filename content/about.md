@@ -3,8 +3,8 @@ title = "About"
 [menu.main]
 weight = 2
 [search_engine_optimization]
-meta_description = "How to go from tired and stress to being a successful mompreneur."
-title_tag = "mom, mompreneneur, entrepreneur, success, struggling, purpose, legacy"
+meta_description = "mom, mompreneneur, entrepreneur, success, struggling, purpose, legacy"
+title_tag = "How to go from tired and stress to being a successful mompreneur."
 
 +++
 Nine years ago, I was burning the candle at both ends as a was a wife, mom, working full-time, had a home business I was trying to grow and everything else in between. In other words, I was stressed out, exhausted, sick, mentally foggy, and nearly dead!
