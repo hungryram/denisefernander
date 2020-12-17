@@ -20,6 +20,11 @@ sections:
   match: "*"
   templates:
   - pages
+- type: directory
+  path: content/legal
+  label: Legal
+  create: documents
+  match: "**/*"
 - type: heading
   label: Blog
 - type: directory
