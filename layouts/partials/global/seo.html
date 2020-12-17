@@ -26,10 +26,10 @@
     <title>{{ $seo.title_tag }}</title>
     <meta name="description" content="{{ $seo.meta_description }}">
 {{ else }}
-    {{ with .Params.title_tag | default .Params.search_engine_optimization.title_tag }}
+    {{ with .Params.title_tag | default .Params.search_engine_optimization.title_tag | default .Title }}
     <title>{{ . }}</title>
     {{ end }}
-    {{ with .Params.meta_description | default .Params.search_engine_optimization.meta_description }}
+    {{ with .Params.meta_description | default .Params.search_engine_optimization.meta_description | default .Params.body}}
     <meta name="description" content="{{ . }}">
     {{ end }}
 {{- end -}}
