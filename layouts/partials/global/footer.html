@@ -92,7 +92,6 @@
 </footer>
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="{{.Site.BaseURL}}/js/main.min.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', () => {
 
@@ -119,6 +118,21 @@
     }
   
   });
+
+  $(document).ready(function() {
+      $(window).ready(function(){
+      setTimeout(function(){ 
+        $(".modal").addClass("is-active");
+      }, 3000);
+      
+    });
+      
+      $(".delete").click(function() {
+        $("html").removeClass("is-clipped");
+        $('.modal').removeClass("is-active");
+      });
+    });
+
 </script>
 </body>
 </html>
