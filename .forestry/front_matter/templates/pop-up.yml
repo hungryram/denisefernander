@@ -1,4 +1,61 @@
 ---
 label: Pop up
 hide_body: true
-fields: []
+fields:
+- name: enable_pop_up
+  type: boolean
+  label: Enable Pop Up
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Body
+- name: image
+  type: file
+  config:
+    maxSize: 1
+  label: Image
+  description: Image is optional
+- name: pop_up_options
+  type: field_group
+  config: {}
+  fields:
+  - name: enable_email_field
+    type: boolean
+    label: Enable Email Field
+  - name: form_name
+    type: text
+    config:
+      required: false
+    label: Form Name
+  - name: email_subject
+    type: text
+    config:
+      required: false
+    label: Email Subject
+  - name: time
+    type: number
+    description: Enter in milliseconds when to show the pop up. <em>For example </em><strong><em>2000
+      </em></strong><em>is </em><strong><em>2 seconds</em></strong><em>.</em>
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+    label: Time
+  label: Pop up Options
