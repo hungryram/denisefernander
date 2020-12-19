@@ -16,9 +16,9 @@
                   <h2 class="title is-4">{{ $popUp.heading }}</h2>
                   <p class="is-size-6 mb-4">{{ $popUp.body | markdownify }}</p>
               </div>
-            <form name="{{ $popUp.form_name }}" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+            <form name="{{ $popUp.pop_up_options.form_name }}" method="POST" netlify-honeypot="bot-field" data-netlify="true">
                 <input name="bot-field" type="hidden" />
-                <input type="hidden" name="Subject" value="{{ $popUp.email_subject }}" />
+                <input type="hidden" name="Subject" value="{{ $popUp.pop_up_options.email_subject }}" />
             <div class="field">
                 <div class="control">
                   <input class="input" type="email" placeholder="Your Email" name="email" required>
