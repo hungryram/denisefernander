@@ -118,12 +118,12 @@
     }
   
   });
-
+{{ $time := 2000 }}
   $(document).ready(function() {
       $(window).ready(function(){
       setTimeout(function(){ 
         $(".modal").addClass("is-active");
-      }, 3000);
+      }, {{ $time }});
       
     });
       
