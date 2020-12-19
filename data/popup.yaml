@@ -1,11 +1,11 @@
 ---
 enable_pop_up: true
-title: Welcome
-heading: Join the Community
-body: Learn more about our growing community!
+title: MOMpreneur Success Academy
+heading: Welcome to MOMpreneur Success Academy
+body: Keep up with all the latest resources, updates, and tips!
 pop_up_options:
   enable_email_field: true
-  form_name: ''
-  email_subject: ''
-  time: 
+  form_name: Email Subscription Sign Up
+  email_subject: New Email Sign Up
+  time: 2000
 image: ''
