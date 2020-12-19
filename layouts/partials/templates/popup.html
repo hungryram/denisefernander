@@ -8,10 +8,12 @@
     </header>
     <section class="modal-card-body">
       <div class="columns">
-        {{/*  <div class="column">
-          <img src="/uploads/main.png" alt="" style="width:100%;">
-        </div>  */}}
-          <div class="column is-three-fifths is-offset-one-fifth">
+        {{ if $popUp.image }}
+        <div class="column">
+          <img src="{{ $popUp.image }}" alt="Email Signup">
+        </div>
+        {{ end }}
+          <div class="column{{ if $popUp.image }}{{ else }} is-three-fifths is-offset-one-quarter{{ end }}">
               <div class="has-text-centered">
                   <h2 class="title is-4">{{ $popUp.heading }}</h2>
                   <p class="is-size-6 mb-4">{{ $popUp.body | markdownify }}</p>
