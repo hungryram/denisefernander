@@ -13,6 +13,10 @@ sections:
 - type: document
   path: data/homelayout.yaml
   label: Home Layout
+- type: document
+  path: data/popup.yaml
+  label: Pop Up
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
