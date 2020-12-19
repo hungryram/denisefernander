@@ -59,3 +59,5 @@ fields:
       step: 
     label: Time
   label: Pop up Options
+pages:
+- data/popup.yaml

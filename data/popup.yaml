@@ -1,0 +1,11 @@
+---
+enable_pop_up: true
+title: Welcome
+heading: Join the Community
+body: Learn more about our growing community!
+pop_up_options:
+  enable_email_field: true
+  form_name: ''
+  email_subject: ''
+  time: 
+image: ''
