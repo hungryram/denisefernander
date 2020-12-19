@@ -1,6 +1,8 @@
 {{ partial "global/head" . }}
 {{ partial "home/main" . }}
+{{ if .Site.Data.popup.enable_pop_up }}
 {{ partial "templates/popup" . }}
+{{ end }}
 {{ partial "home/alert" . }}
 {{ partial "home/intro" . }}
 {{ partial "home/background" . }}
