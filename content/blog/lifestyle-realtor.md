@@ -18,4 +18,4 @@ Our purpose is to provide a safe space for networking, supporting, and sharing r
 
 We are spirit-centered women with a purpose of providing products and/or services her local or the global community need. She wants to make a difference in the world, is excited about her business and creating a work-life balance that allows her to be her best.
 
-Join us!
+Join in the success!
