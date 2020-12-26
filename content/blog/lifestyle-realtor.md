@@ -4,8 +4,8 @@ author = []
 categories = ["mom", " entrepreneur", "mompreneur", "mother", "single mom", "wahm", "wfhm", "women entrepreneur", "business owner", " sahm"]
 date = 2019-06-20T07:00:00Z
 featured_image = "/uploads/sai-de-silva-4-gfgb12hfa-unsplash.jpg"
-meta_description = ""
-tags = ["mom", "entrepreneur", "mompreneur", "woman entrepreneur", "women entrepreneur "]
+meta_description = "MOMpreneur, looking to start and grow your business successfully NOW?"
+tags = ["mom", "entrepreneur", "mompreneur", "woman entrepreneur", "women entrepreneur ", "business woman", "business women", "entrepreneurship"]
 title = "What happens at MOMpreneur Success Academy?"
 title_tag = "MOMpreneur Success Academy"
 
