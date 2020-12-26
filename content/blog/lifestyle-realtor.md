@@ -1,12 +1,12 @@
 +++
-alt_tag = "Meeting"
+alt_tag = "MOMpreneur defined"
 author = []
 categories = ["mom", " entrepreneur", "mompreneur", "mother", "single mom", "wahm", "wfhm", "women entrepreneur", "business owner", " sahm"]
 date = 2020-10-01T07:00:00Z
-featured_image = "/uploads/meeting.jpg"
+featured_image = "/uploads/msa-vocab-mompreneur.png"
 meta_description = ""
 tags = ["mom", "entrepreneur", "mompreneur", "woman entrepreneur", "women entrepreneur "]
-title = "Lifestyle Realtor"
+title = "What happens at MOMpreneur Success Academy?"
 title_tag = "MOMpreneur Success Academy"
 
 +++
