@@ -48,18 +48,18 @@ testimonial:
     review: '"Denise kept me on task and grind the whole way through and I made $10,000
       in just one month!"'
 information:
-  subtitle: 12 week online roadmap
+  subtitle: 12 Module Online Roadmap
   heading: Mompreneur Success Academy
-  body: |-
-    Are you a mom entrepreneur struggling to balance your family and work life?
-    Do you find it hard to get your tasks done and as a result you’re missing your financial goals?
-    We can help. We help MOM, entrepreneurs 1) get clear about what they want, 2) set goals and 3) reach them!
-    Join us and get your business on the path to success in less than **90 days!**
+  body: "Are you a mom entrepreneur struggling to balance your family and work life?
+    Do you find it hard to get your tasks done and as a result you’re missing your
+    financial goals? We can help. \n\nWe help MOM, entrepreneurs 1) get clear about
+    what they want, 2) set goals and 3) reach them! Join us and get your business
+    on the path to success!"
   steps:
   - number: '01'
     heading: Three 1:1 coaching calls
   - number: '02'
-    heading: weekly group coaching calls
+    heading: bi-weekly group coaching calls
   - number: '03'
     heading: online business roadmap course
   - number: '04'
