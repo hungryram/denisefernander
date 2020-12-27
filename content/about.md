@@ -3,7 +3,7 @@ title = "About"
 [menu.main]
 weight = 2
 [search_engine_optimization]
-meta_description = "mom, mompreneneur, entrepreneur, success, struggling, purpose, legacy"
+meta_description = "mom, mompreneneur, entrepreneur, success, struggling, purpose, legacy, productive, self-care"
 title_tag = "How to go from tired and stress to being a successful mompreneur."
 
 +++
