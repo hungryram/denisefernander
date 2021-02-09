@@ -2,7 +2,8 @@
 enable_pop_up: true
 title: MOMpreneur Success Academy
 heading: Welcome to MOMpreneur Success Academy
-body: Keep up with all our latest blog, resources, updates, and tips!
+body: Keep up with all our latest blog updates, products, services, resources and
+  tips!
 pop_up_options:
   enable_email_field: true
   form_name: Email Subscription Sign Up
