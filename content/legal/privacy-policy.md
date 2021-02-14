@@ -55,7 +55,7 @@ Some third party may be used on our website and can use cookies such as but not 
 
 Different browsers provide different settings, if you would like to clear cookies or enable a warning, you can do this through your browser settings. We recommend going through the help menu as browser user interfaces differs.
 
-Users and visitors can opt out of Google Analytics by downloading the browser extension "Google Analytics Opt-out Browser add-on"
+Users and visitors can opt out of Google Analytics by downloading the browser extension "Google Analytics Opt-out Browser add-on."
 
 Note that we may not have access to or control of any cookies used by outside or third-party providers.
 
@@ -71,7 +71,7 @@ If you would like to request that your information be updated, we recommend cont
 
 ##### Updating Privacy Policy
 
-As our website grows, so do our privacy policy. We may notify you of any changes via any form of contact provided by you.
+As our website grows, so does our privacy policy. We may notify you of any changes via any form of contact provided by you.
 
 ##### GDPR Privacy Policy (Data Protection Rights)
 
