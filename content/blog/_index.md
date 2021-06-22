@@ -5,7 +5,7 @@ date = 2021-06-22T04:00:00Z
 featured_image = "/uploads/rawpixel-com-nappy.jpg"
 meta_description = "If you’re an entrepreneur looking for innovative ways to create content for your business, then this article is just for you. "
 tags = ["overwhelm", "content", "create", "mompreneur", "entrepreneurship", "business", "PLR"]
-title = "How To Create Engaging Content and Products Without The Overwhelm"
+title = "MOMpreneur Success Academy"
 title_tag = "How To Create Engaging Content And Products Without The Overwhelm"
 
 +++
