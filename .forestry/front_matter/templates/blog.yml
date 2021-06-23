@@ -52,4 +52,5 @@ fields:
   template: seo
   label: Search Engine Optimization
 pages:
+- content/blog/how-to-create-engaging-content-and-products-without-the-overwhelm.md
 - content/blog/lifestyle-realtor.md
