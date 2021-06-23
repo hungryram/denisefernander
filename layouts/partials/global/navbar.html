@@ -1,6 +1,6 @@
 
 <div class="hero-head">
-    <nav class="navbar {{ if $.IsHome }}is-transparent{{ end }}">
+    <nav class="navbar">
       <div class="container is-fluid">
         <div class="navbar-brand">
           <a class="navbar-item" href="{{ .Site.BaseURL }}">
@@ -22,7 +22,7 @@
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
             <div class="navbar-item has-dropdown is-hoverable main-drop">
-                <a class="navbar-link {{ if not $.IsHome }}has-text-black{{ end }}" href="javascript:;">
+                <a class="navbar-link has-text-black" href="javascript:;">
                     {{ .Name }}
                 </a>
                 <!-- First Level Dropdown -->
@@ -38,7 +38,7 @@
                   <!-- End first level Dropdown -->
             </div>
             {{ else }} <!-- Else No Drop Down-->
-            <a href="{{ .URL |absURL }}" class="navbar-item {{ if not $.IsHome }}has-text-black{{ end }}">{{ .Name }}</a>
+            <a href="{{ .URL |absURL }}" class="navbar-item has-text-black">{{ .Name }}</a>
         {{ end }}
         {{ end }} <!-- End range menu -->
       </div>

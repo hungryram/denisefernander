@@ -1,6 +1,8 @@
+
 {{ $hero := .Site.Data.homelayout.hero_image }}
+{{ partial "global/navbar" . }}
+
     <section class="hero is-fullheight-with-navbar" style="background:url(/uploads/newbg.jpg) no-repeat;background-size:cover;background-position:80%">
-        {{ partial "global/navbar" . }}
         <div class="hero-body">
           <div class="container">
             <div class="columns">
@@ -8,7 +10,7 @@
                     <h2 class="subtitle" style="color: #ef9fb4;font-size: 4em;">
                        {{ $hero.subtitle }}
                     </h2>
-                    <h1 class="title is-3 has-text-white">{{ $hero.heading }}</h1>
+                    <h1 class="title is-3 has-text-black">{{ $hero.heading }}</h1>
     
                     <p>{{ $hero.body | markdownify }}</p>
                     <br>
