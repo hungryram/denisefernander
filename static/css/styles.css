@@ -22,7 +22,7 @@ p strong,
 p a,
 .content a,
 .content strong {
-    color: #26999C
+    color: #26999C;
 }
 
 
@@ -222,6 +222,18 @@ a.navbar-link:hover {
 
 /* HERO */
 
+@media screen and (max-width: 768px) {
+    div.hero-body p {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    div.mobile-hero-body {
+        display: none;
+    }
+}
+
 /* @media screen and (min-width: 1087px){
     div.hero-right {
         width: 70%;
@@ -265,7 +277,11 @@ div.numbers p {
     font-family: "Playfair Display", serif;
 }
 
+/* MODAL */
 
+header p.modal-card-title {
+    font-size: 16px;
+}
 
 /* ALERT / TESTIMONIAL */
 

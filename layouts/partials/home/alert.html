@@ -5,7 +5,7 @@
             <div class="column has-text-centered">
                 <div class="content">
                     {{ if $alert.heading }}<h4 class="title is-4">{{ $alert.heading }}</h4>{{ end }}
-                    {{ if $alert.body }}<p>{{ $alert.body | markdownify }}</p>{{ end }}
+                    {{ if $alert.body }}{{ $alert.body | markdownify }}{{ end }}
                 </div>
             </div>
         </div>
