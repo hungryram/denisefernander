@@ -65,3 +65,5 @@ There is one thing you always want to keep in mind when using PLR content. I hig
 ## In Summary
 
 Creating content is necessary at every level in your business so finding ways to make it 1) easy and 2) to help you stay consistent is key. That said, PLR content is an excellent way for mompreneurs to create content for their brands without getting overwhelmed and frustrated so you should most definitely give it a try.
+
+Check them out: [PLR.me](https://www.plr.me/?ref=denisefernander)
