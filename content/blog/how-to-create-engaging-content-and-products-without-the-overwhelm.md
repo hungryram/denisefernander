@@ -2,7 +2,7 @@
 alt_tag = "Lap top with the word simplicity"
 author = []
 categories = ["business", "entrepreneurship", "mompreneur", "successful", "content", "PLR", "dadpreneur"]
-date = 2021-06-24T07:00:00Z
+date = 2021-06-23T07:00:00Z
 featured_image = "/uploads/rawpixel-com-nappy.jpg"
 meta_description = "If you’re an entrepreneur looking for innovative ways to create content for your business, then this article is just for you. "
 tags = ["overwhelm", "content", "create"]
