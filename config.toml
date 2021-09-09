@@ -1,4 +1,4 @@
-baseURL = "https://www.mompreneursuccessacademy.com"
+baseURL = "https://www.mompreneursuccessacademy.com/"
 languageCode = "en-us"
 summaryLength = 20
 [[menu.main]]
