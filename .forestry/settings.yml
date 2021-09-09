@@ -16,6 +16,10 @@ sections:
 - type: document
   path: data/popup.yaml
   label: Pop Up
+- type: document
+  path: content/podcasts/_index.md
+  label: Podcasts
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
