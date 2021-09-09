@@ -30,3 +30,5 @@ fields:
   config: {}
   template: seo
   label: SEO
+pages:
+- content/podcasts/_index.md

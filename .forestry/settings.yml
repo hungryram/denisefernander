@@ -19,7 +19,6 @@ sections:
 - type: document
   path: content/podcasts/_index.md
   label: Podcasts
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
