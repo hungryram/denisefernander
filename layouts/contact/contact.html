@@ -1,11 +1,20 @@
 {{ define "main" }}
 <div class="section">
     <div class="container">
+      <div class="columns is-variable is-8">
+        <div class="column is-three-fifths is-offset-one-fifth">
+            <div class="form-container">
+                <h1 class="title is-4">Contact Information</h1>
+                <p><strong>Email:</strong> <a href="mailto:{{ .Site.Data.profile.contact_information.email }}">{{ .Site.Data.profile.contact_information.email }}</a></p>
+                <p><strong>Phone:</strong> <a href="tel:{{ .Site.Data.profile.contact_information.phone }}">{{ .Site.Data.profile.contact_information.phone }}</a></p>
+            </div>
+        </div>
+    </div>
         <div class="columns is-variable is-8">
             <div class="column is-three-fifths is-offset-one-fifth">
                 <div class="form-container box pt-6 pb-6 pl-6 pr-6">
-                    <h1 class="title is-4">Have any questions?</h1>
-                    <h1 class="subtitle">Send an email</h1>
+                    <h2 class="title is-4">Have any questions?</h2>
+                    <h3 class="subtitle">Send an email</h3>
                     <form name="contact page form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
                         <input name="bot-field" type="hidden"/>
                         <div class="field is-horizontal">
