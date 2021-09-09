@@ -1,4 +1,32 @@
 ---
 label: Podcast
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: podcasts
+  type: field_group_list
+  fields:
+  - name: podcast_name
+    type: text
+    config:
+      required: false
+    label: Podcast Name
+  - name: podcast_link
+    type: text
+    config:
+      required: false
+    label: Podcast Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Podcasts
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
