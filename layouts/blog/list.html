@@ -13,7 +13,7 @@
                                     <img src="{{ if .Params.featured_image }}{{ $.Site.Params.cloudinary_url }}{{ .Params.featured_image }}{{else}}/uploads/main2.jpg{{ end }}" alt="{{ .Params.alt_tag }}" style="width:100%;height:200px;object-fit:cover">
                               </div>
                                   <div class="card-content">
-                                    <h1 class="title is-4 has-text-black">{{ .Title }}</h2>
+                                    <h2 class="title is-4 has-text-black">{{ .Title }}</h2>
                                         <p class="has-text-black is-size-7">{{ .Summary }}</p>
                                     <a href="{{ .Permalink }}" class="primary-color">Read More</a>
                                   </div>

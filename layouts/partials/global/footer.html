@@ -7,7 +7,7 @@
   <div class="container">
     <div class="columns">
       <div class="column">
-        {{ if $banner.heading }}<h1 class="title is-4 has-text-white">{{ $banner.heading }}</h1>{{ end }}
+        {{ if $banner.heading }}<h2 class="title is-4 has-text-white">{{ $banner.heading }}</h2>{{ end }}
       </div>
       <div class="column has-text-centered">
         {{ if $banner.button_link }}<a href="{{ $banner.button_link }}" class="secondary-btn" target="_blank">{{ $banner.button_text }}</a>{{ end }}
@@ -19,7 +19,7 @@
   <div class="container">
     <div class="columns">
       <div class="column has-text-centered is-half is-offset-one-quarter">
-        <img src="{{ .Site.Data.appearance.branding.logo | absURL }}" alt="" width="400">
+        <img src="{{ .Site.Data.appearance.branding.logo | absURL }}" alt="{{ .Site.Data.profile.company_name }}" width="400">
 
         {{ if $footerDesign.footer_bio }}
           <p class="pb-6 is-size-6">{{ $footerDesign.footer_bio }}</p>

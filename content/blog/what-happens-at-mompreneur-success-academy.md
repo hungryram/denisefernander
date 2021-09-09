@@ -8,7 +8,6 @@ meta_description = "MOMpreneur, looking to start and grow your business successf
 tags = ["mom", "entrepreneur", "mompreneur", "woman entrepreneur", "women entrepreneur ", "business woman", "business women", "entrepreneurship"]
 title = "What happens at MOMpreneur Success Academy?"
 title_tag = "MOMpreneur Success Academy"
-
 +++
 Looking to connect, network, give and receive support and feedback from other local moms? We explore successful business/personal strategies ranging from personal development, mindset, clearing emotional blockages, business development, goal setting, marketing strategies and accountability, etc. 
 

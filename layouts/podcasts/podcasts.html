@@ -3,8 +3,18 @@
     <div class="container">
         <div class="columns">
             <div class="column">
-                <h1 class="title is-4">Thank you!</h1>
-                <p>We look forward to providing you the resources needed to push you through your journey.</p>
+                <div class="columns is-multiline">
+                    {{ range .Params.podcasts }}
+                        <div class="column is-4">
+                            <div class="card" style="margin: 10px;">
+                                  <div class="card-content">
+                                        <h2 class="has-text-black title is-4">{{ .podcast_name }}</h2>
+                                    <a href="{{ .podcast_link }}" class="primary-color">View podcast</a>
+                                  </div>
+                            </div>
+                        </div>   
+                    {{ end }}
+                    </div>
             </div>
         </div>
     </div>

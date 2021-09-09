@@ -4,7 +4,7 @@
         <div class="columns">
             <div class="column is-half is-offset-one-quarter has-text-centered">
                 {{ if $info.subtitle }}<h2 class="subtitle" style="font-size: 4em">{{ $info.subtitle }}</h2>{{ end }}
-                {{ if $info.heading }}<h1 class="title  is-4">{{ $info.heading }}</h1>{{ end }}
+                {{ if $info.heading }}<h3 class="title  is-4">{{ $info.heading }}</h3>{{ end }}
                 <div class="content">
                     {{ $info.body | markdownify }}
                 </div>
@@ -14,8 +14,8 @@
             {{ range $info.steps }}
             <div class="column  is-4">
                 <div class="numbers">
-                    {{ if .number }}<h1 class="title">{{ .number }}</h1>{{ end }}
-                    {{ if .heading }}<p>{{ .heading }}</p>{{ end }}
+                    {{ if .number }}<p class="title">{{ .number }}</p>{{ end }}
+                    {{ if .heading }}<h2>{{ .heading }}</h2>{{ end }}
                 </div>
             </div>
             {{ end }}

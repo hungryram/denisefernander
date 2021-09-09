@@ -226,6 +226,10 @@ a.navbar-link:hover {
     div.hero-body p {
         display: none;
     }
+
+    div.hero-body h1.has-text-black {
+        color: #fff!important;
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -337,6 +341,7 @@ li.page-item.disabled {
 
 footer.footer {
     padding: 3rem 1.5rem 2rem;
+    background: #f5f1f2;
 }
 
 div.top-footer {
