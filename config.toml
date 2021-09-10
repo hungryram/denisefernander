@@ -9,7 +9,7 @@ weight = 7
 [[menu.main]]
 name = "Blog"
 url = "/blog"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Home"
 url = "/"
