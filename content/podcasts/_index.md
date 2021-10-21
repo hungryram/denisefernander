@@ -5,7 +5,7 @@ title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 [menu.main]
 weight = 3
 [[podcasts]]
-podcast_link = "http://www.mompreneursuccesspodcast.com/"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/-change-your-life-through-entrepreneurship"
 podcast_name = "Mompreneur Episode 1"
 
 +++
