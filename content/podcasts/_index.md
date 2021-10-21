@@ -6,6 +6,6 @@ title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 weight = 3
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/-change-your-life-through-entrepreneurship"
-podcast_name = "Mompreneur Episode 1"
+podcast_name = "Mompreneur Episode 1 with Crystal Garcia"
 
 +++
