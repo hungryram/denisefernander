@@ -9,6 +9,6 @@ podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-p
 podcast_name = "MOMpreneur Success Podcast - About"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/-change-your-life-through-entrepreneurship"
-podcast_name = "Mompreneur Episode 1 with Crystal Garcia"
+podcast_name = "Mompreneur Episode 2 with Crystal Garcia"
 
 +++
