@@ -6,7 +6,7 @@ title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 weight = 3
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/our-burning-passion-as-the-driving-force-to-finish-strong"
-podcast_name = "MOMpreneur Success Podcast"
+podcast_name = "Season 2, Episode 3 with Patrice Jones"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
