@@ -8,16 +8,16 @@ weight = 3
 podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP04.mp3"
 podcast_name = "Season 1, Episode 4 with Chryssy Robinson"
 [[podcasts]]
-podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
-podcast_name = "MOMpreneur Success Podcast - About"
-[[podcasts]]
-podcast_link = "https://mompreneursuccesspodcast.libsyn.com/-change-your-life-through-entrepreneurship"
-podcast_name = "Season 1, Episode 1 with Denise Fernander"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/our-burning-passion-as-the-driving-force-to-finish-strong"
+podcast_name = "Season 1, Episode 3 with Patrice Jones"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/simple-business-strategies-to-overcome-the-overwhelm-with-crystal-garcia-from-propelcon"
 podcast_name = "Season 1, Episode 2 with Crystal Garcia"
 [[podcasts]]
-podcast_link = "https://mompreneursuccesspodcast.libsyn.com/our-burning-passion-as-the-driving-force-to-finish-strong"
-podcast_name = "Season 1, Episode 3 with Patrice Jones"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/-change-your-life-through-entrepreneurship"
+podcast_name = "Season 1, Episode 1 with Denise Fernander"
+[[podcasts]]
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
+podcast_name = "MOMpreneur Success Podcast - About"
 
 +++
