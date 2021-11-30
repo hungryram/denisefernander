@@ -5,6 +5,9 @@ title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 [menu.main]
 weight = 3
 [[podcasts]]
+podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP05.mp3"
+podcast_name = "Season 1, Episode 5 with Cyndy McDonald"
+[[podcasts]]
 podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP04.mp3"
 podcast_name = "Season 1, Episode 4 with Chryssy Robinson"
 [[podcasts]]
