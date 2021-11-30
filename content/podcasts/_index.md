@@ -1,5 +1,5 @@
 +++
-meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent podcast episodes!"
+meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
 title = "MOMpreneur Success Podcast"
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 [menu.main]
