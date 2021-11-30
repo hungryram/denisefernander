@@ -18,7 +18,7 @@ podcast_link = "https://mompreneursuccesspodcast.libsyn.com/simple-business-stra
 podcast_name = "Season 1, Episode 2 with Crystal Garcia"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/-change-your-life-through-entrepreneurship"
-podcast_name = "Season 1, Episode 1 with Denise Fernander"
+podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
