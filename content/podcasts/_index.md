@@ -5,6 +5,9 @@ title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 [menu.main]
 weight = 3
 [[podcasts]]
+podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP08.mp3"
+podcast_name = "Season 1, Episode 8 with Brée Nachelle"
+[[podcasts]]
 podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP07.mp3"
 podcast_name = "Season 1, Episode 7 with R. Nicole Sharp"
 [[podcasts]]
