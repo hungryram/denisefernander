@@ -48,16 +48,14 @@ testimonial:
 information:
   subtitle: Mompreneur Success Academy
   heading: MOMpreneur's Roadmap To Success
-  body: |-
-    Are you a mom entrepreneur struggling to balance your family and work life while building/growing your brand and business?
-
-    Do you find it hard to get your tasks done and as a result you’re missing your financial goals? We can help.
-
-    We help MOM, entrepreneurs 2) create clear messaging, 2) develop effective marketing and 3) use proven marketing strategies to grow profitable in your business.
-
-    Let us help you get your business on the path to success!
+  body: "Are you a mom entrepreneur struggling to balance your family and work life
+    while building/growing your brand and business?\n\nDo you find it hard to get
+    your tasks done and as a result you’re missing your financial goals? \n\nWe can
+    help.\n\nWe help MOM, entrepreneurs \n\n1) create clear messaging, \n\n2) develop
+    effective marketing and \n\n3) use proven marketing strategies to grow profitable
+    in your business.\n\nLet us help you get your business on the path to success!"
   steps:
-  - number: Roadmap To Success    Self-Paced Course
+  - number: Roadmap To Success Self-Paced Course
     heading: Do-It-Yourself w/ Success Roadmap
   - number: Roadmap To Success    90 Day Bootcamp
     heading: Done-With-You
