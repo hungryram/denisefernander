@@ -3,8 +3,8 @@ title = "MOMpreneur Success Academy"
 [menu.main]
 weight = 2
 [search_engine_optimization]
-meta_description = "Are you a mom, entrepreneur looking to start and/or grow your first 5 figures in 90 days? Need help staying productive and balancing being a mom and a boss?"
-title_tag = "MOMpreneur Success Academy - Reach your first 5 figures in 90 days."
+meta_description = "MOMpreneur Success Academy - Denise Fernander - We help mompreneurs who are coaches and/or health practitioners get past overwhelm & frustration to creating clear messaging, developing effective marketing and using proven marketing strategies to grow profitable in their business."
+title_tag = "MOMpreneur Success Academy - Denise Fernander - We help mompreneurs who are coaches and/or health practitioners get past overwhelm & frustration to creating clear messaging, developing effective marketing and using proven marketing strategies to grow profitable in their business."
 
 +++
 MOMpreneurship Success Academy is a network and community of mom entrepreneurs, like you, who are ready to launch and/or grow their business to their first 5 figures in 90 days.
