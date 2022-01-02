@@ -2,8 +2,10 @@
 enable_pop_up: true
 title: MOMpreneur Success Academy
 heading: Welcome to MOMpreneur Success Academy
-body: Keep up with all our latest blog updates, sale alerts, new products & services,
-  free resources and tips!
+body: Learn more about how we can help you get away from overwhelm , struggle and
+  frustration and move forward to success in your business! Get a copy of the MOMpreneur's
+  Roadmap To Success, learn about our products and services and free resources and
+  tips!
 pop_up_options:
   enable_email_field: true
   form_name: Email Subscription Sign Up
