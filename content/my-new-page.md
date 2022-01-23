@@ -3,7 +3,7 @@ title = "MOMpreneur Success Academy"
 [menu.main]
 weight = 2
 [search_engine_optimization]
-meta_description = "MOMpreneur Success Academy - Denise Fernander - We help mompreneurs who are coaches and/or health practitioners get past overwhelm & frustration to creating clear messaging, developing effective marketing and using proven marketing strategies to grow profitable in their business."
+meta_description = "MOMpreneur Success Academy - Denise Fernander - We help mom, entrepreneurs who are coaches and/or health practitioners get past overwhelm & frustration to creating clear messaging, developing effective marketing and using proven marketing strategies to grow profitable in their business."
 title_tag = "MOMpreneur Success Academy - Denise Fernander - We help mompreneurs who are coaches and/or health practitioners get past overwhelm & frustration to creating clear messaging, developing effective marketing and using proven marketing strategies to grow profitable in their business."
 
 +++
