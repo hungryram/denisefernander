@@ -7,7 +7,7 @@ meta_description = "mom, mompreneneur, entrepreneur, success, struggling, purpos
 title_tag = "How to go from tired and stress to being a successful mompreneur."
 
 +++
-Nine years ago, I was burning the candle at both ends as a was a wife, mom, working full-time, had a home business I was trying to grow and everything else in between. In other words, I was stressed out, exhausted, sick, mentally foggy, and nearly dead!
+Eleven years ago, I was burning the candle at both ends as a was a wife, mom, working full-time, had a home business I was trying to grow and everything else in between. In other words, I was stressed out, exhausted, sick, mentally foggy, and nearly dead!
 
 One of my doctors said he didn’t expect that I’d survive another 12 months after meeting him. Needless to say I was also STRUGGLING to get clear about my business and about my life. Young, married with a beautiful 8 year old son and 17 year old stepson, I knew I needed to hit the refresh button on my life. There was NO way this was going to be it for me.
 
