@@ -3,9 +3,9 @@
     <div class="container">
         <div class="columns">
             <div class="column has-text-centered">
-                <div class="content">
-                    {{ if $alert.heading }}<h2 class="title is-4">{{ $alert.heading }}</h2>{{ end }}
-                    {{ if $alert.body }}{{ $alert.body | markdownify }}{{ end }}
+                <div class="content editable">
+                    <h2 class="title is-4">{{ $alert.heading }}</h2>{
+                    {{ $alert.body | markdownify }}
                 </div>
             </div>
         </div>

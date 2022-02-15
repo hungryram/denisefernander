@@ -9,9 +9,10 @@
                 <div class="column">
                     <h3 class="subtitle is-1 editable">{{ $intro.subtitle }}</h3>
                     <h2 class="title is-3 editable">{{ $intro.heading }}</h2>
-                    <div class="content editable">
-                        <p>{{ $intro.body | markdownify }}</p>
-                        <br>
+                    <div class="content">
+                        <div class="editable">
+                            <p>{{ $intro.body | markdownify }}</p>
+                        </div>
                         <div class="is-block mt-6">
                             <a href="{{ $intro.button_link }}" class="primary-btn">{{ $intro.button_text }}</a>
                         </div>
