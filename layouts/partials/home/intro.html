@@ -7,18 +7,14 @@
                     <img src="{{ $intro.image }}" alt="{{ $intro.image_alt_tag }}">
                 </div>
                 <div class="column">
-                    {{ if $intro.subtitle }}<h3 class="subtitle is-1">{{ $intro.subtitle }}</h3>{{ end }}
-                    {{ if $intro.heading }}<h2 class="title is-3">{{ $intro.heading }}</h2>{{ end }}
-                    <div class="content">
-                        {{ if $intro.body }}
+                    <h3 class="subtitle is-1 editable">{{ $intro.subtitle }}</h3>
+                    <h2 class="title is-3 editable">{{ $intro.heading }}</h2>
+                    <div class="content editable">
                         <p>{{ $intro.body | markdownify }}</p>
-                        {{ end }}
                         <br>
-                        {{ if $intro.button_link }}
                         <div class="is-block mt-6">
                             <a href="{{ $intro.button_link }}" class="primary-btn">{{ $intro.button_text }}</a>
                         </div>
-                        {{ end }}
                     </div>
                 </div>
             </div>

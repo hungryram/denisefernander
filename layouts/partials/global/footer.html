@@ -7,7 +7,7 @@
   <div class="container">
     <div class="columns">
       <div class="column">
-        {{ if $banner.heading }}<h2 class="title is-4 has-text-white">{{ $banner.heading }}</h2>{{ end }}
+        <h2 class="title is-4 has-text-white editable">{{ $banner.heading }}</h2>
       </div>
       <div class="column has-text-centered">
         {{ if $banner.button_link }}<a href="{{ $banner.button_link }}" class="secondary-btn" target="_blank">{{ $banner.button_text }}</a>{{ end }}

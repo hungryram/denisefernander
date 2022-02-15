@@ -1,0 +1,5 @@
+[[redirects]]
+force = true
+from = "/my-new-page/"
+status = 301
+to = "/mompreneur-success-academy"

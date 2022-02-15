@@ -4,7 +4,9 @@
       <div class="columns is-variable is-8">
         <div class="column is-three-fifths is-offset-one-fifth">
             <div class="form-container">
-                <h1 class="title is-4">Contact Information</h1>
+                <div class="editable">
+                  <h1 class="title is-4">Contact Information</h1>
+                </div>
                 <p><strong>Email:</strong> <a href="mailto:{{ .Site.Data.profile.contact_information.email }}">{{ .Site.Data.profile.contact_information.email }}</a></p>
                 <p><strong>Phone:</strong> <a href="tel:{{ .Site.Data.profile.contact_information.phone }}">{{ .Site.Data.profile.contact_information.phone }}</a></p>
             </div>

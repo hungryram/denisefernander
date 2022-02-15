@@ -1,5 +1,6 @@
 +++
 title = "MOMpreneur Success Academy"
+url = "/mompreneur-success-academy"
 [menu.main]
 weight = 2
 [search_engine_optimization]
