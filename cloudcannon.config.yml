@@ -22,6 +22,9 @@ collection_groups:
       - legal
       - contact
       - thank-you
+  - heading: Blog
+    collections:
+      - blog
 _inputs:
   date:
     type: date
