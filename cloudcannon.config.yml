@@ -1,4 +1,27 @@
 collections_config:
+  pages:
+    output: true
+    url: "/content/[slug]"
+    add_options:
+      - name: Add Page
+        href: "cloudcannon:explore/content/.md🆕/content/schemas/pages.md"
+  blog:
+    output: true
+    url: "/content/blog/[slug]"
+    add_options:
+      - name: Add Page
+        href: "cloudcannon:explore/content/blog/.md🆕/content/schemas/blog.md"
+collection_groups:
+  - heading: Profile and Settings
+    collections:
+      - data
+  - heading: Pages
+    collections:
+      - pages
+      - podcasts
+      - legal
+      - contact
+      - thank-you
 _inputs:
   date:
     type: date
