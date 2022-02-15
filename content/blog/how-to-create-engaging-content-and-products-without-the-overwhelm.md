@@ -2,13 +2,13 @@
 alt_tag = "Lap top with the word simplicity"
 author = []
 categories = ["business", "entrepreneurship", "mompreneur", "successful", "content", "PLR", "dadpreneur"]
-date = 2021-06-23T07:00:00Z
+date = 2021-06-23
 featured_image = "/uploads/rawpixel-com-nappy.jpg"
 meta_description = "If you’re an entrepreneur looking for innovative ways to create content for your business, then this article is just for you. "
 tags = ["overwhelm", "content", "create"]
+[search_engine_optmization]
 title = "How To Create Engaging Content and Products Without The Overwhelm"
 title_tag = "How To Create Engaging Content And Products Without The Overwhelm"
-
 +++
 Are you a mompreneur struggling to create copy for your business? Whether it’s your website, blog, digital product, coaching program or online course, no worries, because PLR is an easy and brilliant way to create engaging content.
 
