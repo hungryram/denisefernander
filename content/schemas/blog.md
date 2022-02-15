@@ -2,9 +2,9 @@
 title = ""
 featured_image = ""
 alt_tag = ""
-categories = []
+categories = [" "]
 date = 2019-06-20
-tags = []
+tags = [" "]
 draft = false
 [search_engine_optimization]
 title_tag = ""
