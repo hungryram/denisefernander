@@ -2,9 +2,9 @@
 <div class="section" style="background:linear-gradient(rgba(255,255,255,0.1),rgba(255,255,255,0.9)),url(/uploads/desk.jpg) no-repeat center">
     <div class="container">
         <div class="columns">
-            <div class="column is-half is-offset-one-quarter has-text-centered">
-                {{ if $info.subtitle }}<h2 class="subtitle" style="font-size: 4em">{{ $info.subtitle }}</h2>{{ end }}
-                {{ if $info.heading }}<h3 class="title  is-4">{{ $info.heading }}</h3>{{ end }}
+            <div class="column is-half is-offset-one-quarter has-text-centered editable">
+                <h2 class="subtitle" style="font-size: 4em">{{ $info.subtitle }}</h2>
+                <h3 class="title  is-4">{{ $info.heading }}</h3>
                 <div class="content">
                     {{ $info.body | markdownify }}
                 </div>

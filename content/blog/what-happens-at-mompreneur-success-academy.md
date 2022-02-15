@@ -1,13 +1,12 @@
 +++
-alt_tag = "MOMpreneur defined"
-author = []
-categories = ["mom", " entrepreneur", "mompreneur", "mother", "single mom", "wahm", "wfhm", "women entrepreneur", "business owner", " sahm"]
-date = 2019-06-20T07:00:00Z
-featured_image = "/uploads/sai-de-silva-4-gfgb12hfa-unsplash.jpg"
-meta_description = "MOMpreneur, looking to start and grow your business successfully NOW?"
-tags = ["mom", "entrepreneur", "mompreneur", "woman entrepreneur", "women entrepreneur ", "business woman", "business women", "entrepreneurship"]
 title = "What happens at MOMpreneur Success Academy?"
+featured_image = "/uploads/sai-de-silva-4-gfgb12hfa-unsplash.jpg"
+alt_tag = "MOMpreneur defined"
+categories = ["mom", " entrepreneur", "mompreneur", "mother", "single mom", "wahm", "wfhm", "women entrepreneur", "business owner", " sahm"]
+date = 2019-06-20
+tags = ["mom", "entrepreneur", "mompreneur", "woman entrepreneur", "women entrepreneur ", "business woman", "business women", "entrepreneurship"]
 title_tag = "MOMpreneur Success Academy"
+meta_description = "MOMpreneur, looking to start and grow your business successfully NOW?"
 +++
 Looking to connect, network, give and receive support and feedback from other local moms? We explore successful business/personal strategies ranging from personal development, mindset, clearing emotional blockages, business development, goal setting, marketing strategies and accountability, etc. 
 

@@ -1,7 +1,8 @@
 +++
-meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
-title = "MOMpreneur Success Podcast"
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
+[search_engine_optimization]
+title = "MOMpreneur Success Podcast"
+meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
 [menu.main]
 weight = 3
 [[podcasts]]

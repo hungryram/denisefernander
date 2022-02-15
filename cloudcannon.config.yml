@@ -1,0 +1,6 @@
+collections_config:
+_inputs:
+  date:
+    type: date
+  categories:
+    type: array
