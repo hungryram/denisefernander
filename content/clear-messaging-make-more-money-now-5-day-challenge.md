@@ -26,4 +26,6 @@ After facing it myself and working hundreds of other women, entrepreneurs, I hav
 
 Drop the frustration and the struggle and join the challenge today!!
 
+[**I'M READY TO MAKE MONEY NOW**](https://www.eventbrite.com/e/clear-messaging-make-more-money-now-5-day-challenge-march-14-18-7pm-tickets-288668835257 "Challenge")
+
 ###### **![](/uploads/digital-marketing-seek-cover-image.png)**
