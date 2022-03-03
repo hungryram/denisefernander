@@ -26,4 +26,4 @@ After facing it myself and working hundreds of other women, entrepreneurs, I hav
 
 Drop the frustration and the struggle and join the challenge today!!
 
-###### **![](/uploads/dcf-100621-main-too.jpg)**
+###### **![](/uploads/digital-marketing-seek-cover-image.png)**
