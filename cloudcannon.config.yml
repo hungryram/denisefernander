@@ -26,6 +26,12 @@ collection_groups:
     collections:
       - blog
 _inputs:
+  primary_color:
+    type: color
+  secondary_color:
+    type: color
+  third_color:
+    type: color
   date:
     type: date
   categories:
