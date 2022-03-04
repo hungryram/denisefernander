@@ -1,12 +1,12 @@
 +++
+title = "How To Manifest Your Goals Using Vision Boards!"
+featured_image = "/uploads/copy-of-mompreneur-success-academy-teachable-1920x1080-5.png"
 alt_tag = ""
-author = []
 categories = [" "]
 date = ""
 draft = true
-featured_image = "/uploads/copy-of-mompreneur-success-academy-teachable-1920x1080-5.png"
 tags = [" "]
-title = "How To Manifest Your Goals Using Vision Boards!"
+draft = false
 [search_engine_optimization]
 title_tag = ""
 meta_description = ""

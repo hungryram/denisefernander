@@ -1,10 +1,5 @@
 +++
-title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
-[search_engine_optimization]
 title = "MOMpreneur Success Podcast"
-meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
-[menu.main]
-weight = 3
 [[podcasts]]
 podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP08.mp3"
 podcast_name = "Season 1, Episode 8 with Brée Nachelle"
@@ -32,5 +27,7 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
-
+[search_engine_optimization]
+title_tag = "Podcast Episodes by enise Fernander - MOMpreneur Success Academy"
+meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
 +++

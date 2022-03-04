@@ -1,10 +1,10 @@
 +++
 title = "What happens at MOMpreneur Success Academy?"
 featured_image = "/uploads/sai-de-silva-4-gfgb12hfa-unsplash.jpg"
-alt_tag = "MOMpreneur defined"
 categories = ["mom", " entrepreneur", "mompreneur", "mother", "single mom", "wahm", "wfhm", "women entrepreneur", "business owner", " sahm"]
 date = 2019-06-20
 tags = ["mom", "entrepreneur", "mompreneur", "woman entrepreneur", "women entrepreneur ", "business woman", "business women", "entrepreneurship"]
+draft = false
 [search_engine_optimization]
 title_tag = "MOMpreneur Success Academy"
 meta_description = "MOMpreneur, looking to start and grow your business successfully NOW?"
