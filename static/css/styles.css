@@ -23,7 +23,7 @@ p strong,
 p a,
 .content a,
 .content strong {
-    color: #26999C;
+    color: var(--secondary-color);
 }
 
 
@@ -38,7 +38,7 @@ h4.subtitle,
 h5.subtitle,
 h6.subtitle {
     font-family: 'moon', serif;
-    color: #26999C;
+    color: var(--secondary-color);
     font-size: 3em;
 }
 
@@ -71,7 +71,7 @@ h6.title {
 }
 
 h1 span {
-    color: #26999C;
+    color: var(--secondary-color);
 }
 
 p > a {
@@ -103,24 +103,24 @@ body p {
 }
 
 button.button {
-    background: #F2AFC0;
+    background: var(--primary-color);
     color: #fff;
     padding: 25px;
     width: 100%;
     transition: .3s;
-    border: 1px solid #F2AFC0;
+    border: 1px solid var(--primary-color);
 }
 
 button.button:hover {
     transition: .3s;
-    border: 1px solid #F2AFC0;
+    border: 1px solid var(--primary-color);
     background: transparent;
 }
 
 a.primary-btn {
-    background: #26999C;
+    background: var(--secondary-color);
     color: #fff;
-    border: 1px solid #26999C;
+    border: 1px solid var(--secondary-color);
     padding: 20px 45px;
     text-align: center;
     text-decoration: none;
@@ -149,7 +149,7 @@ a.secondary-btn:hover {
 a.primary-btn:hover {
     background: transparent;
     transition: .3s ease;
-    color: #26999C;
+    color: var(--secondary-color);
 }
 
 button.primary-btn {
@@ -160,7 +160,7 @@ button.primary-btn {
 
 a.border-button {
     color: #EF9FB4;
-    border-bottom: 2px solid #EF9FB4;
+    border-bottom: 2px solid var(--primary-color);
     padding-bottom: 5px;
 }
 
@@ -181,7 +181,7 @@ a.border-button {
 /* NAVBAR */
 
 div.top-bar {
-    background: #26999C;
+    background: var(--secondary-color);
     color: #fff;
 }
 
@@ -264,7 +264,7 @@ div.hero-right hr {
 } */
 
 div.hero-foot {
-    background: #26999C;
+    background: var(--secondary-color);
     padding: 20px;
 }
 
@@ -346,7 +346,7 @@ footer.footer {
 }
 
 div.top-footer {
-    background: #ef9fb4;
+    background: var(--primary-color);
 }
 
 ul.footer-social {
@@ -356,4 +356,8 @@ ul.footer-social {
 ul.footer-social li {
     display: inline-block;
     margin: 10px;
+}
+
+div.testimonial-section {
+    background: var(--primary-color);
 }

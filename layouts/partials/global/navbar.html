@@ -1,3 +1,4 @@
+{{ $mainMenu := .Site.Data.menu }}
 
 <div class="hero-head">
     <nav class="navbar">
@@ -18,29 +19,29 @@
         </div>
         <div id="navbarMenuHeroA" class="navbar-menu">
           <div class="navbar-end">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        {{ if .HasChildren }}
-            <div class="navbar-item has-dropdown is-hoverable main-drop">
-                <a class="navbar-link has-text-black" href="javascript:;">
-                    {{ .Name }}
-                </a>
-                <!-- First Level Dropdown -->
-                    <div class="navbar-dropdown">
-                        {{ range .Children }}
-                            
-                            <a class="navbar-item {{ if .HasChildren }}navbar-link first-drop is-hoverable{{ end }} {{ if not $.IsHome }}has-text-black{{ end }}" href="{{ if .HasChildren }}javascript:;{{ else }}{{ .URL | absURL }}{{ end }}">
-                            {{ .Name }}
-                            </a>
-                        
-                        {{ end }}
-                  </div>
-                  <!-- End first level Dropdown -->
-            </div>
-            {{ else }} <!-- Else No Drop Down-->
-            <a href="{{ .URL |absURL }}" class="navbar-item has-text-black">{{ .Name }}</a>
-        {{ end }}
-        {{ end }} <!-- End range menu -->
+
+
+              {{ range $mainMenu.menu }}
+                  {{ if .menu }}
+                  <div class="navbar-item has-dropdown is-hoverable main-drop">
+                    <a class="navbar-link has-text-black" href="javascript:;">{{ .name }}</a>
+                    <!-- First Level Dropdown -->
+                        <div class="navbar-dropdown">
+                          {{ range .menu }}
+                                <a class="navbar-item" href="{{ .link | absURL }}">{{ .name }}</a>
+                          {{ end }}
+                      </div>
+                      <!-- End first level Dropdown -->
+                </div>
+                  {{ else }}
+                  <a href="{{ .link |absURL }}" class="navbar-item has-text-black">{{ .name }}</a>
+                  {{ end }}
+              {{ end }}
+
+
+
+
+
       </div>
     </div>
       </div>

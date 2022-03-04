@@ -3,3 +3,7 @@ branding:
   logo: "/uploads/mompreneur-logo.png"
   site_title: Mompreneur Success Academy
   favicon: "/uploads/favicon.png"
+colors:
+  primary: "#f3b6b6"
+  secondary: "#26999c"
+  third_color: "#fffffb"

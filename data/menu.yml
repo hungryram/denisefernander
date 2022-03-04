@@ -1,0 +1,11 @@
+menu:
+  - name: Home
+    link: /
+  - name: Mompreneur Success Academy
+    link: /mompreneur-success-academy/
+  - name: Blog
+    link: /blog
+  - name: About
+    link: /about
+  - name: Contact
+    link: /contact
