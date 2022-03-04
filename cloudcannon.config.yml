@@ -1,13 +1,25 @@
 collections_config:
+  data:
+    name: 'Settings'
+    icon: admin_panel_settings
   pages:
     output: true
     url: "/content/[slug]"
     add_options:
       - name: Add Page
         href: "cloudcannon:explore/content/.md🆕/content/schemas/pages.md"
+  legal:
+    icon: policy
+    _enabled_editors:
+      - visual
+      - content
+    add_options:
+      - name: Add Policy
+        href: "cloudcannon:explore/content/legal/.md🆕/content/schemas/legal.md"
   blog:
     output: true
     url: "/content/blog/[slug]"
+    icon: article
     add_options:
       - name: Add Page
         href: "cloudcannon:explore/content/blog/.md🆕/content/schemas/blog.md"
