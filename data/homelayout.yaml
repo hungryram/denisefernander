@@ -1,67 +1,108 @@
----
 hero_image:
-  image: "/uploads/newbg.jpg"
+  image: /uploads/newbg.jpg
   subtitle: Welcome to
   heading: MOMpreneur Success Academy
-  body: "**We help moms who are starting a business with messaging and go to marketing
-    plans so that they can start making money now!**"
-  link: https://mompreneursuccessacademyllc.hbportal.co/schedule/613991b6f6d56f4b272d0430
+  body: >-
+    **We help moms who are starting a business with messaging and go to
+    marketing plans so that they can start making money now\!**
+  link: >-
+    https://mompreneursuccessacademyllc.hbportal.co/schedule/613991b6f6d56f4b272d0430
   link_text: Book Your Roadmap To Success Call
 hero_banner:
   heading: Tired of the struggle? Ready to get to profitable?
-  body: Drop me a DM on Instagram **@mompreneursuccessacademy** or email me at **denise@mompreneursuccessacademy.com**
-    and I’ll get it to you.
+  body: >-
+    Drop me a DM on Instagram **@mompreneursuccessacademy** or email me at
+    **denise@mompreneursuccessacademy.com** and I’ll get it to you.
 introduction:
-  subtitle: " Hello There!"
-  image: "/uploads/2.jpg"
+  subtitle: ' Hello There!'
+  image: /uploads/2.jpg
   image_alt_tag: Denise Fernander
   button_text: Book Your Roadmap To Success Call
-  button_link: https://mompreneursuccessacademyllc.hbportal.co/schedule/613991b6f6d56f4b272d0430
+  button_link: >-
+    https://mompreneursuccessacademyllc.hbportal.co/schedule/613991b6f6d56f4b272d0430
   heading: I'm Denise Fernander
-  body: |-
-    I’m a mom, business strategy/accountability coach and the founder of MOMpreneur Success Academy. I help other mom, entrepreneurs get  to profitable in as little as 90 days through clear messaging and go to marketing plans!
+  body: >-
+    I’m a mom, business strategy/accountability coach and the founder of
+    MOMpreneur Success Academy. I help other mom, entrepreneurs get  to
+    profitable in as little as 90 days through clear messaging and go to
+    marketing plans!
 
-    I’m a former classroom teacher, online teacher, curriculum & instructional designer. I have also worked as a business & educational consultant for over 20 years.
 
-    My experience in business, coaching, speaking, teaching, and curriculum design and relationship-building provided me the skills to help clients hone in on their passion, EXACTLY what their community wants and needs, and help them build and grow a successful and sustainable online business.
+    I’m a former classroom teacher, online teacher, curriculum & instructional
+    designer. I have also worked as a business & educational consultant for over
+    20 years.
 
-    My greatest assets are my know-how, experience and love for inspiring and motivating others to reach their goals!
+
+    My experience in business, coaching, speaking, teaching, and curriculum
+    design and relationship-building provided me the skills to help clients hone
+    in on their passion, EXACTLY what their community wants and needs, and help
+    them build and grow a successful and sustainable online business.
+
+
+    My greatest assets are my know-how, experience and love for inspiring and
+    motivating others to reach their goals!
+
 
     Are you **READY** for your **SUCCESS**?
 testimonial:
   testimonials:
-  - name: Monique Jackson
-    review: '"Denise helped me stay on track and get 23 clients in 2 weeks!"'
-  - name: Nya M.
-    review: '"In that one-hour conversation, Denise helped me get clear about my goals
-      and how I can reach them!"'
-  - name: Lisa A.
-    review: '"Denise helped me find solutions to my biggest problems and I got a client
-      the NEXT DAY!"'
-  - name: 'Paula J. '
-    review: '"Denise encourages and motivates you and has an amazing way of making
-      you realize what you bring to the table!"'
-  - name: Brittani R.
-    review: '"Denise kept me on task and grind the whole way through and I made $10,000
-      in just one month!"'
+    - name: Monique Jackson
+      review: '"Denise helped me stay on track and get 23 clients in 2 weeks!"'
+    - name: Nya M.
+      review: >-
+        "In that one-hour conversation, Denise helped me get clear about my
+        goals and how I can reach them!"
+    - name: Lisa A.
+      review: >-
+        "Denise helped me find solutions to my biggest problems and I got a
+        client the NEXT DAY!"
+    - name: 'Paula J. '
+      review: >-
+        "Denise encourages and motivates you and has an amazing way of making
+        you realize what you bring to the table!"
+    - name: Brittani R.
+      review: >-
+        "Denise kept me on task and grind the whole way through and I made
+        $10,000 in just one month!"
 information:
   subtitle: Mompreneur Success Academy
   heading: MOMpreneur's Roadmap To Success
-  body: "Are you a mom, entrepreneur just getting started in business or been in business
-    for a while and you’ve done all things but you still aren’t profitable? \n\nor\n\nHave
-    you started your business and the bills are stacking up and you need to make it
-    balance out soon?\n\nWe can help.\n\nWe help MOM, entrepreneurs\n\n1. create clear
-    messaging,\n2. develop effective marketing and\n3. use proven marketing strategies
-    to grow profitable in your business.\n\nLet us help you get your business on the
-    path to success!"
+  body: >-
+    Are you a mom, entrepreneur just getting started in business or been in
+    business for a while and you’ve done all things but you still aren’t
+    profitable?
+
+
+    or
+
+
+    Have you started your business and the bills are stacking up and you need to
+    make it balance out soon?
+
+
+    We can help.
+
+
+    We help MOM, entrepreneurs
+
+
+    1. create clear messaging,
+
+    2. develop effective marketing and
+
+    3. use proven marketing strategies to grow profitable in your business.
+
+
+    Let us help you get your business on the path to success\!
   steps:
-  - number: Roadmap To Success Self-Paced Course
-    heading: Do-It-Yourself w/ Success Roadmap
-  - number: Roadmap To Success 90 Day Bootcamp
-    heading: Done-With-You
-  - number: Roadmap To Success 12 Month Accelerator
-    heading: 1:1 Coaching w/ Supports & Resources
+    - number: Roadmap To Success Self-Paced Course
+      heading: Do-It-Yourself w/ The Business In A Box
+    - number: Roadmap To Success 90 Day Bootcamp
+      heading: Done-With-You
+    - number: Roadmap To Success 12 Month Accelerator
+      heading: 1:1 Coaching w/ Supports & Resources
 banner:
   heading: Still need some clarity in your business? Let's talk
   button_text: Book Your Roadmap To Success Call
-  button_link: https://mompreneursuccessacademyllc.hbportal.co/schedule/613991b6f6d56f4b272d0430
+  button_link: >-
+    https://mompreneursuccessacademyllc.hbportal.co/schedule/613991b6f6d56f4b272d0430
