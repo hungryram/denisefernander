@@ -1,24 +1,25 @@
----
-company_name: Mompreneur Success Academy
+company_name: MOMpreneur Success Academy
 social_media:
   instagram: https://www.instagram.com/mompreneursuccessacademy/
   twitter: http://twitter.com/denisefernander
   facebook: http://www.facebook.com/momsuccessacademy/
-  pinterest: ''
+  pinterest:
   linkedin: https://www.linkedin.com/company/mompreneur-success-academy/
 contact_information:
   name: Denise Fernander
-  phone: "6784594112"
+  phone: '6784594112'
   email: denise@mompreneursuccessacademy.com
 search_engine_optimization:
-  title_tag: MOMpreneur Success Academy - Denise  Fernander - We help mompreneurs
-    who are coaches and/or health practitioners get past overwhelm & frustration to
-    creating clear messaging, developing effective marketing and using proven marketing
-    strategies to grow profitable in their business.
-  meta_description: MOMpreneur Success Academy - Denise Fernander - We help moms who
-    are starting a business with messaging and go to marketing plans so that they
+  title_tag: >-
+    MOMpreneur Success Academy - Denise  Fernander - We help mompreneurs who are
+    coaches and/or health practitioners get past overwhelm & frustration to
+    creating clear messaging, developing effective marketing and using proven
+    marketing strategies to grow profitable in their business.
+  meta_description: >-
+    MOMpreneur Success Academy - Denise Fernander - We help moms who are
+    starting a business with messaging and go to marketing plans so that they
     can start making money now!
   twitter_card:
     twitter_username: denisefernander
   facebook:
-    app_id: "@MOMsuccessacademy"
+    app_id: '@MOMsuccessacademy'
