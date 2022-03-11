@@ -105,9 +105,9 @@ information:
       button_label: Start Now!
     - number: 2
       heading: CLEAR MESSAGING = MAKE MORE MONEY NOW 5 Day Challenge
-      body:
-      button_link:
-      button_label:
+      body: Join in
+      button_link: /
+      button_label: Join Now!
     - number: 3
       heading: Roadmap To Success 30 Day Accelerator
       body:
