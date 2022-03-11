@@ -15,12 +15,14 @@
             <div class="column has is-4 has-text-centered">
                 <div class="numbers">
                     {{ if .number }}<p class="title">{{ .number }}</p>{{ end }}
-                    {{ if .heading }}<h2>{{ .heading }}</h2>{{ end }}
-                    <div>
+                    {{ if .heading }}<h2 class="has-text-weight-bold">{{ .heading }}</h2>{{ end }}
+                    <div class="mb-5">
                         {{ .body | markdownify }}
                     </div>
                     {{ if .button_link }}
-                    <a href="{{ .button_link }}" class="primary-btn">{{ .button_label }}</a>
+                    <div>
+                        <a href="{{ .button_link }}" class="primary-btn">{{ .button_label }}</a>
+                    </div>
                     {{ end }}
                 </div>
             </div>
