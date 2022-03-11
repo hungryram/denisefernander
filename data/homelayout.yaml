@@ -101,14 +101,14 @@ information:
 
     Let us help you get your business on the path to success\!
   steps:
-    - number: Roadmap To Success 90 Day Bootcamp
-      heading:
     - number: Roadmap To Success 12 Month Accelerator
-      heading: 30 Day Accelerator
+      heading: Roadmap To Success 30 Day Accelerator
     - number:
       heading: Do-It-Yourself w/ The Business In A Box
     - number:
       heading: CLEAR MESSAGING = MAKE MORE MONEY NOW 5 Day Challenge
+    - number:
+      heading: Roadmap To Success 30 Day Accelerator
 banner:
   heading: Still need some clarity in your business? Let's talk
   button_text: Book Your Roadmap To Success Call
