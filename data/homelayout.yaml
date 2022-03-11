@@ -100,10 +100,13 @@ information:
   steps:
     - number: 1
       heading: Do-It-Yourself w/ The Business In A Box
+      body:
     - number: 2
       heading: CLEAR MESSAGING = MAKE MORE MONEY NOW 5 Day Challenge
+      body:
     - number: 3
       heading: Roadmap To Success 30 Day Accelerator
+      body:
 banner:
   heading: Still need some clarity in your business? Let's talk
   button_text: Book Your Roadmap To Success Call
