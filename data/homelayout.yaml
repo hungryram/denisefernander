@@ -100,7 +100,7 @@ information:
   steps:
     - number: 1
       heading: Do-It-Yourself w/ The Business In A Box
-      body: A simple mmm
+      body: A simple mmms
       button_link: /
       button_label: Start Now!
     - number: 2
