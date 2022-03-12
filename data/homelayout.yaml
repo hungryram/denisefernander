@@ -100,14 +100,14 @@ information:
   steps:
     - number: 1
       heading: Do-It-Yourself w/ The Business In A Box
-      body: A simple mmm
-      button_link: /
-      button_label: Start Now!
+      body:
+      button_link:
+      button_label:
     - number: 2
       heading: CLEAR MESSAGING = MAKE MORE MONEY NOW 5 Day Challenge
-      body: Join in
-      button_link: /
-      button_label: Join Now!
+      body:
+      button_link:
+      button_label:
     - number: 3
       heading: Roadmap To Success 30 Day Accelerator
       body:
