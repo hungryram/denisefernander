@@ -1,11 +1,11 @@
 +++
 title = "Workshop Replay"
-featured_image = ""
+featured_image = "/uploads/2022-circle-logo---mompreneur-success-academy-600-×-600-px.png"
 draft = false
 
 [search_engine_optimization]
-title_tag = ""
-meta_description = ""
+title_tag = "MOMpreneur Success Academy Workshops"
+meta_description = "Training, Tips and Resources for moms starting a business who need clear messaging and a strong marketing plan to grow them to profitable NOW."
 +++
 
 Did you miss one of our workshops?
