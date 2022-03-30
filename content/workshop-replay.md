@@ -1,6 +1,6 @@
 +++
 title = "Workshop Replay"
-featured_image = "/uploads/2022-circle-logo---mompreneur-success-academy-600-×-600-px.png"
+featured_image = "/uploads/mompreneur-success-circle-logo-aug-2021-1.png"
 draft = false
 
 [search_engine_optimization]
