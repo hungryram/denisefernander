@@ -7,7 +7,7 @@ title_tag = "Clear Messaging  =  Make More Money Now 5 Day Challenge"
 
 +++
 
-<img alt="" src="/uploads/meetup---clear-messaging--make-more-money-now-5-day-challenge-facebook-cover-2.png" width="1200" height="675" />
+<img src="/uploads/presentation---clear-messaging--make-more-money-now-5-day-challenge-presentation-169.png" width="1920" height="1080" />
 
 ##### **Clear Messaging = Make More Money Now 5 Day Challenge**
 
