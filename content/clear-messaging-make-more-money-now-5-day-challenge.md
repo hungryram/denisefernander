@@ -7,8 +7,6 @@ title_tag = "Clear Messaging  =  Make More Money Now 5 Day Challenge"
 
 +++
 
-&lt;img src="/uploads/presentation---clear-messaging--make-more-money-now-5-day-challenge-presentation-169.png" width="1920" height="1080" /&gt;
-
 **<img src="/uploads/copy-of-womens-day-sale-video-store-discount-elegant-ad-pink-instagram-post-2.png" width="2160" height="1080" />**
 
 Are you just getting started in business or is that you've been in business for a while and you’ve done all things, but you still aren’t profitable? or
