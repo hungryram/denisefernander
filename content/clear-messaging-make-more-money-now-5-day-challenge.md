@@ -7,9 +7,9 @@ title_tag = "Clear Messaging  =  Make More Money Now 5 Day Challenge"
 
 +++
 
-<img src="/uploads/presentation---clear-messaging--make-more-money-now-5-day-challenge-presentation-169.png" width="1920" height="1080" />
+&lt;img src="/uploads/presentation---clear-messaging--make-more-money-now-5-day-challenge-presentation-169.png" width="1920" height="1080" /&gt;
 
-##### **Clear Messaging = Make More Money Now 5 Day Challenge**
+**<img src="/uploads/copy-of-womens-day-sale-video-store-discount-elegant-ad-pink-instagram-post-2.png" width="2160" height="1080" />**
 
 Are you just getting started in business or is that you've been in business for a while and you’ve done all things, but you still aren’t profitable? or
 
@@ -28,5 +28,13 @@ After facing it myself and working hundreds of other women, entrepreneurs, I hav
 Drop the frustration and the struggle and join the challenge today\!\!
 
 [**I'M READY TO MAKE MONEY NOW**](https://www.eventbrite.com/e/clear-messaging-make-more-money-now-5-day-challenge-apr-11-15-8pm-tickets-305197623307 "Challenge")
+
+**Not ready for the 5 Day Challenge, yet?**
+
+Enroll in the Master Your Message mini course\!
+
+<img src="/uploads/master-your-message-mini-course-2.png" width="1920" height="1080" />
+
+&nbsp;
 
 ###### **![](/uploads/digital-marketing-seek-cover-image.png)**
