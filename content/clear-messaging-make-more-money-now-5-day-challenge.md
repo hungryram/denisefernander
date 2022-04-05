@@ -7,8 +7,6 @@ title_tag = "Clear Messaging  =  Make More Money Now 5 Day Challenge"
 
 +++
 
-**<img src="/uploads/copy-of-womens-day-sale-video-store-discount-elegant-ad-pink-instagram-post-2.png" width="2160" height="1080" />**
-
 Are you just getting started in business or is that you've been in business for a while and you’ve done all things, but you still aren’t profitable? or
 
 Have you started your business and now all of the bills are stacking up and you need to make it balance out soon?
@@ -31,7 +29,7 @@ Drop the frustration and the struggle and join the challenge today\!\!
 
 Enroll in the Master Your Message mini course\!
 
-<img src="/uploads/master-your-message-mini-course-2.png" width="1920" height="1080" />
+&lt;img src="/uploads/master-your-message-mini-course-2.png" width="1920" height="1080" /&gt;
 
 **Master Your Message NOW\!**
 
