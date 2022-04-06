@@ -29,7 +29,7 @@ Drop the frustration and the struggle and join the challenge today\!\!
 
 Enroll in the Master Your Message mini course\!
 
-<img src="/uploads/master-your-message-mini-course-2.png" width="1920" height="1080" />
+&nbsp;
 
 **Master Your Message NOW\!**
 
