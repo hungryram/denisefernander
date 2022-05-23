@@ -2,6 +2,10 @@
 title = "MOMpreneur Success Podcast"
 
 [[podcasts]]
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/building-the-commitment-and-staying-consistent"
+podcast_name = "Season 2, Episode 1 w/ Charron Monaye"
+
+[[podcasts]]
 podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP08.mp3"
 podcast_name = "Season 1, Episode 8 with Brée Nachelle"
 
@@ -36,10 +40,6 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
-
-[[podcasts]]
-podcast_link = "https://mompreneursuccesspodcast.libsyn.com/building-the-commitment-and-staying-consistent"
-podcast_name = "Season 2, Episode 1 w/ Charron Monaye"
 
 [search_engine_optimization]
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
