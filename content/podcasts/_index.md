@@ -37,8 +37,13 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
 
+[[podcasts]]
+podcast_link = '<iframe title="Embed Player" style="border: none;" src="//play.libsyn.com/embed/episode/id/23150708/height/192/theme/modern/size/large/thumbnail/no/custom-color/ffffff/time-start/00:00:00/hide-playlist/yes" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>'
+podcast_name = "Building The Commitment and Staying Consistent"
+
 [search_engine_optimization]
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
 +++
 
+<a target="_blank" rel="noopener" href="&lt;iframe title=&quot;Embed Player&quot; style=&quot;border: none;&quot; src=&quot;//play.libsyn.com/embed/episode/id/23150708/height/192/theme/modern/size/large/thumbnail/no/custom-color/ffffff/time-start/00:00:00/hide-playlist/yes&quot; height=&quot;192&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; oallowfullscreen=&quot;true&quot; msallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;">...</a>
