@@ -22,7 +22,7 @@ podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP
 podcast_name = "Season 1, Episode 5 with Cyndy McDonald"
 
 [[podcasts]]
-podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP04.mp3"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/listening-to-your-customersclients-how-to-reach-your-business-financial-goals"
 podcast_name = "Season 1, Episode 4 with Chryssy Robinson"
 
 [[podcasts]]
