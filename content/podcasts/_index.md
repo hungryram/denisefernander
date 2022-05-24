@@ -3,7 +3,7 @@ title = "MOMpreneur Success Podcast"
 
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/building-the-commitment-and-staying-consistent"
-podcast_name = "Season 2, Episode 1 w/ Charron Monaye"
+podcast_name = "Season 2, Episode 1 with Charron Monaye"
 
 [[podcasts]]
 podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP08.mp3"
@@ -46,4 +46,3 @@ title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
 +++
 
-<a target="_blank" rel="noopener" href="&lt;iframe title=&quot;Embed Player&quot; style=&quot;border: none;&quot; src=&quot;//play.libsyn.com/embed/episode/id/23150708/height/192/theme/modern/size/large/thumbnail/no/custom-color/ffffff/time-start/00:00:00/hide-playlist/yes&quot; height=&quot;192&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; oallowfullscreen=&quot;true&quot; msallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;https://mompreneursuccesspodcast.libsyn.com/building-the-commitment-and-staying-consistent">...</a>
