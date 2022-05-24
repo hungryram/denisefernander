@@ -6,7 +6,7 @@ podcast_link = "https://mompreneursuccesspodcast.libsyn.com/building-the-commitm
 podcast_name = "Season 2, Episode 1 with Charron Monaye"
 
 [[podcasts]]
-podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP08.mp3"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/clarity-to-achieve-purpose-and-proper-execution"
 podcast_name = "Season 1, Episode 8 with Brée Nachelle"
 
 [[podcasts]]
