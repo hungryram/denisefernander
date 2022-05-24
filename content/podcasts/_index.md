@@ -18,7 +18,7 @@ podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP
 podcast_name = "Season 1, Episode 6 with host, Denise Fernander"
 
 [[podcasts]]
-podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP05.mp3"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/the-mompreneurs-sales-perspective-towards-exponential-growth-with-cyndy-mcdonald"
 podcast_name = "Season 1, Episode 5 with Cyndy McDonald"
 
 [[podcasts]]
