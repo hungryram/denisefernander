@@ -10,7 +10,7 @@ podcast_link = "https://mompreneursuccesspodcast.libsyn.com/clarity-to-achieve-p
 podcast_name = "Season 1, Episode 8 with Brée Nachelle"
 
 [[podcasts]]
-podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP07.mp3"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/have-the-yes-mindset-and-do-it-scared"
 podcast_name = "Season 1, Episode 7 with R. Nicole Sharp"
 
 [[podcasts]]
