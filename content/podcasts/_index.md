@@ -14,7 +14,7 @@ podcast_link = "https://mompreneursuccesspodcast.libsyn.com/have-the-yes-mindset
 podcast_name = "Season 1, Episode 7 with R. Nicole Sharp"
 
 [[podcasts]]
-podcast_link = "https://traffic.libsyn.com/secure/mompreneursuccesspodcast/MOMSP06.mp3"
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/step-back-be-present-and-look-forward"
 podcast_name = "Season 1, Episode 6 with host, Denise Fernander"
 
 [[podcasts]]
