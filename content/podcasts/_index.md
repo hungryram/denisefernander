@@ -2,6 +2,18 @@
 title = "MOMpreneur Success Podcast"
 
 [[podcasts]]
+podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP003.mp3"
+podcast_name = "Season 2, Episode 3 with Tahmina Watson"
+
+[[podcasts]]
+podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP002.mp3"
+podcast_name = "Season 2, Episode 2 with Tephanie Delaney"
+
+[[podcasts]]
+podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP_001.mp3"
+podcast_name = "Season 2, Episode 1 with Charron Monaye"
+
+[[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/clarity-to-achieve-purpose-and-proper-execution"
 podcast_name = "Season 1, Episode 8 with Brée Nachelle"
 
@@ -36,18 +48,6 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
-
-[[podcasts]]
-podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP_001.mp3"
-podcast_name = "Season 2, Episode 1 with Charron Monaye"
-
-[[podcasts]]
-podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP002.mp3"
-podcast_name = "Season 2, Episode 2 with Tephanie Delaney"
-
-[[podcasts]]
-podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP003.mp3"
-podcast_name = "Season 2, Episode 3 with Tahmina Watson"
 
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/building-the-commitment-and-staying-consistent"
