@@ -45,6 +45,10 @@ podcast_name = "MOMpreneur Success Podcast - About"
 podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP_001.mp3"
 podcast_name = "Season 2, Episode 1 with Charron Monaye"
 
+[[podcasts]]
+podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP002.mp3"
+podcast_name = "Season 2, Episode 2 with Tephanie Delaney"
+
 [search_engine_optimization]
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
