@@ -5,5 +5,9 @@ draft = false
 
 [search_engine_optimization]
 title_tag = "Roadmap To Success Accelerator - Business In A Box"
-meta_description = "Accelerator - Get 90 days of 1:1 AND small group coaching.  You also have access to everything you need to boost your business to consistent four to five figure monthly revenue. With a roadmap and support, you are only 90 days away from your business hitting all of your goals. Business In A Box is a DIY option that will get you up and going to your best quarter with all of the resources and tools you need to get going."
+meta_description = """
+Accelerator - Get 90 days of 1:1 AND small group coaching.  You also have access to everything you need to boost your business to consistent four to five figure monthly revenue. With a roadmap and support, you are only 90 days away from your business hitting all of your goals. 
+
+Business In A Box - A DIY option that will get you up and going to your best quarter with all of the resources and tools you need to get going."""
 +++
+
