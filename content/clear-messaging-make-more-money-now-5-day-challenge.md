@@ -1,5 +1,5 @@
 +++
-title = "Join the 5 Day Challenge TODAY!"
+title = "Join the Master Your Message Challenge TODAY!"
 draft = false
 
 [search_engine_optimization]
