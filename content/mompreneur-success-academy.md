@@ -1,11 +1,11 @@
 +++
-title = "MOMpreneur Success Academy"
-url = "/mompreneur-success-academy"
+title = "Roadmap To Success Accelerator Program"
+url = "/roadmap-to-success-accelerator-program"
 draft = false
 
 [search_engine_optimization]
-meta_description = "MOMpreneur Success Academy - Denise Fernander - We help moms who are starting a business with messaging and go to marketing plans so that they can start making money now!"
-title_tag = "MOMpreneur Success Academy - Denise Fernander - We help mompreneurs who are coaches and/or health practitioners get past overwhelm & frustration to creating clear messaging, developing effective marketing and using proven marketing strategies to grow profitable in their business."
+meta_description = "Roadmap To Success Accelerator Program - MOMpreneur Success Academy - Denise Fernander - We help mom wellness practitioners & coaches, who are new in business, with messaging and go to marketing plans so that they can start making money now!"
+title_tag = "Roadmap To Success Accelerator Program - MOMpreneur Success Academy - Denise Fernander - We help mompreneurs who are coaches and/or health practitioners get past overwhelm & frustration to creating clear messaging, developing effective marketing and using proven marketing strategies to grow profitable in their business."
 +++
 
 MOMpreneur Success Academy is a network and community of mom entrepreneurs, like you, who are ready to launch and/or grow their business to profitable in 90 days.
