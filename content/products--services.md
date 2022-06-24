@@ -11,3 +11,10 @@ Accelerator - Get 90 days of 1:1 AND small group coaching.  You also have access
 Business In A Box - A DIY option that will get you up and going to your best quarter with all of the resources and tools you need to get going."""
 +++
 
+<img src="/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-3.png" width="1200" height="300" />
+
+&nbsp;
+
+&nbsp;
+
+<img src="/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-3.png" width="1200" height="300" />
