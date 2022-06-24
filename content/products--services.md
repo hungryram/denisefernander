@@ -13,8 +13,10 @@ Business In A Box - A DIY option that will get you up and going to your best qua
 
 <img src="/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-3.png" width="1200" height="300" />
 
-&nbsp;
+**THE 3 PART SYSTEM FOR MOM, COACHES & WELLNESS PRACTITIONERS TO GET THEIR BUSINESS TO PROFITABLE IN 90 DAYS OR LESS**
 
 &nbsp;
 
 <img src="/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-3.png" width="1200" height="300" />
+
+&nbsp;
