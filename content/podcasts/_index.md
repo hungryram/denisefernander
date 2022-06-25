@@ -2,6 +2,10 @@
 title = "MOMpreneur Success Podcast"
 
 [[podcasts]]
+podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP004.mp3"
+podcast_name = "Season 2, Episode 4 with Tanya J Miller"
+
+[[podcasts]]
 podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP003.mp3"
 podcast_name = "Season 2, Episode 3 with Tahmina Watson"
 
@@ -48,10 +52,6 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
-
-[[podcasts]]
-podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP004.mp3"
-podcast_name = "Season 2, Episode 4 with Tanya J Miller"
 
 [search_engine_optimization]
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
