@@ -17,10 +17,10 @@ Business In A Box - A DIY option that will get you up and going to your best qua
 
 &nbsp;
 
-&lt;img src="/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-3.png" width="1200" height="300" /&gt;
+<img src="/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-3.png" width="1200" height="300" />
 
 &nbsp;
 
-<img src="/uploads/business-meet.jpg" width="1920" height="1080" />
+&nbsp;
 
 &nbsp;
