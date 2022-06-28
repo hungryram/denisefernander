@@ -72,22 +72,42 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ##### **\- MUST be coachable.**
 
-&nbsp;
+###### &nbsp;
 
 ##### **\- MUST speak English and reside in the USA**
 
-&nbsp;
+###### &nbsp;
 
 ##### **\- 10% commission on each meeting set that becomes a sale. 20% once you become setter/closer.**
 
-&nbsp;
+###### &nbsp;
 
 ##### **\- Can easily make over $80,000 per year**
 
-&nbsp;
+###### &nbsp;
 
 ##### **\- Monday - Friday - 8 hours/day (FULL TIME ONLY)&nbsp;**
 
-&nbsp;
+###### &nbsp;
 
 ##### **\- Daily coaching provided.**
+
+&nbsp;
+
+&nbsp;
+
+**WATCH OUR VIDEO PRESENTATION AND BOOK A CALL WITH US IF YOU MEET THE REQUIREMENTS POSTED ABOVE:&nbsp;**[**http://mompreneursuccessacademy.com/hiring**](http://mompreneursuccessacademy.com/hiring)**&nbsp;**
+
+What You Will Learn While Making Money?
+
+**&nbsp;1) How To Prospect For High Ticket Clients Without Cold Calling**
+
+Cold-Calling SUCKS\! I Will Never Make You Do It.&nbsp;
+
+**&nbsp;2) How To Qualify&nbsp;**
+
+Qualification Is The Most Important Step Of The Sales Process. If You're Speaking To Unqualified Leads, I Don't Care How Good You Are, You Will NEVER Close.
+
+**3) How To Close & Make MONEY&nbsp;**
+
+I've Paid Over 6 Figures In The Last 4 Years To Learn From The Best Sale Trainers In The World. All Of Which Will Be Passed On To You For FREE\!&nbsp;
