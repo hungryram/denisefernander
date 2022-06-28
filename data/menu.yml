@@ -3,6 +3,8 @@ menu:
     link: /
   - name: Mompreneur Success Academy
     link: /mompreneur-success-academy/
+  - name: Products & Services
+    link: https://www.mompreneursuccessacademy.com/products-services/
   - name: Podcast
     link: /podcasts
   - name: Blog
@@ -14,5 +16,3 @@ menu:
   - name: 5 Day Challenge
     link: >-
       https://www.mompreneursuccessacademy.com/clear-messaging-make-more-money-now-5-day-challenge/
-  - name: Products & Services
-    link: https://www.mompreneursuccessacademy.com/products-services/
