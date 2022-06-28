@@ -51,27 +51,33 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ###### &nbsp;
 
-###### **\*\* LIMITED AVAILABILITY** - 5 CLOSERS WANTED\! **\*\***
+##### **\*\* LIMITED AVAILABILITY** - 5 CLOSERS WANTED\! **\*\***
 
 ###### &nbsp;
 
-**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*ATTENTION\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+#### **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*ATTENTION\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
 
-**We are looking to bring on 5 more appointment setters/sales for our growing Accelerator Program who want to earn $80K+/year.**
+##### &nbsp;
+
+##### **We are looking to bring on 5 more appointment setters/sales for our growing Accelerator Program who want to earn $80K+/year.**
+
+###### &nbsp;
 
 * Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude.&nbsp;
 * All scripts, materials, and tools will be provided to you.
 
-**IMPORTANT Details...**
+##### **IMPORTANT Details...**
 
-**\- MUST be coachable.&nbsp;**
+###### &nbsp;
 
-**\- MUST speak English and reside in the USA**
+##### **\- MUST be coachable.&nbsp;**<br>
 
-**\- 10% commission on each meeting set that becomes a sale. 20% once you become setter/closer.**
+##### **\- MUST speak English and reside in the USA**<br>
 
-**\- Can easily make over $80,000 per year**
+##### **\- 10% commission on each meeting set that becomes a sale. 20% once you become setter/closer.**
 
-**\- Monday - Friday - 8 hours/day (FULL TIME ONLY)**
+##### <br>**\- Can easily make over $80,000 per year**<br>
 
-**\- Daily coaching provided.**
+##### **\- Monday - Friday - 8 hours/day (FULL TIME ONLY)&nbsp;**<br>
+
+##### **\- Daily coaching provided.**
