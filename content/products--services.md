@@ -71,9 +71,9 @@ Don’t spend all of your money on ads and expensive posts.
 
 ✓ **BONUS: Tools & Resources** ($97 Value)
 
-**TOTAL VALUE = $3,491**​​​​​​​
+**TOTAL VALUE = $3,491**
 
-This program is normally sold for $1,297, but if you purchase in the next 72 hours you can get it for $797.
+This program is normally sold for $1,297, but it available for a short time for just $797.
 
 **JOIN NOW FOR ONLY $797**
 
