@@ -6,7 +6,7 @@ draft = false
 [search_engine_optimization]
 title_tag = "Become A Remote Closer! All Training Provided!"
 meta_description = """
-We are looking to bring on 2 more appointment setters/sales for our growing Accelerator Program who wants to earn $100K+/year.
+We are looking to bring on 2 more appointment setters/sales for our growing Accelerator Program who wants to earn $80K+/year.
 
 Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude. """
 +++
