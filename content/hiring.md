@@ -111,3 +111,7 @@ Qualification Is The Most Important Step Of The Sales Process. If You're Speakin
 **3) How To Close & Make MONEY&nbsp;**
 
 I've Paid Over 6 Figures In The Last 4 Years To Learn From The Best Sale Trainers In The World. All Of Which Will Be Passed On To You For FREE\!&nbsp;
+
+**Schedule A Call Now\!**
+
+<a target="_blank" rel="noopener" href="https://calendly.com/mompreneursuccessacademy/30-minute-meeting">...</a>
