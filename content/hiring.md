@@ -25,6 +25,12 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 #### **1\. Watch Video**
 
+###### &nbsp;
+
+###### **[...](https://youtu.be/lopVITdhd2c)**
+
+#### &nbsp;
+
 #### **2\. Follow Me On Instagram @MOMPRENEURSUCCESSACADEMY**
 
 #### **3\. BOOK AN INTERVIEW**
