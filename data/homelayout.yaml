@@ -101,7 +101,12 @@ information:
 
     Here's how we can work together\!
   steps:
-    - number: 1
+    - number: 2
+      heading: Roadmap To Success Accelerator Program
+      body:
+      button_link:
+      button_label:
+    - number: 2
       heading: Do-It-Yourself w/ The Business In A Box
       body: >-
         *This 7 module course will teach you how to put together and implement
@@ -111,11 +116,6 @@ information:
         tribe and have them ready to get to their next level\!*
       button_link:
       button_label: SIGN UP NOW!
-    - number: 2
-      heading: Roadmap To Success Accelerator Program
-      body:
-      button_link:
-      button_label:
 banner:
   heading: Still need some clarity in your business? Let's talk
   button_text: Book Your Roadmap To Success Call
