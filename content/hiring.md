@@ -11,39 +11,43 @@ We are looking to bring on 2 more appointment setters/sales for our growing Acce
 Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude. """
 +++
 
-### **Become A Remote Closer\!**
+## **Become A Remote Closer\!**
 
 ###### &nbsp;
 
-**All Training Provided\!**
+### **All Training Provided\!**
 
-**ABSOLUTELY FREE\!**
+#### &nbsp;
+
+#### **ABSOLUTELY FREE\!**
+
+### &nbsp;
 
 ### Not Here To Sell You Anything
 
 ###### &nbsp;
 
-#### **1\. Watch Video**
+### **1\. Watch Video**
 
-###### &nbsp;
-
-###### **[...](https://youtu.be/lopVITdhd2c)**
+# **[...](https://youtu.be/lopVITdhd2c)**
 
 #### &nbsp;
 
-#### **2\. Follow Me On Instagram @MOMPRENEURSUCCESSACADEMY**
-
-#### **3\. BOOK AN INTERVIEW**
+### **2\. Follow Me On Instagram @MOMPRENEURSUCCESSACADEMY**
 
 ###### &nbsp;
 
-#### **Pick A Time Using The Button Below\!**
+### **3\. BOOK AN INTERVIEW**
 
 ###### &nbsp;
 
-###### [&nbsp;BECOME A CLOSER](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)
+### **Pick A Time Using The Button Below\!**
 
-### [Book A Call](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)
+###### &nbsp;
+
+##### [&nbsp;BECOME A CLOSER](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)
+
+## [Book A Call](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)
 
 ###### &nbsp;
 
