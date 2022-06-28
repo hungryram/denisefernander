@@ -1,6 +1,6 @@
 +++
 title = "Join the Master Your Message Challenge TODAY!"
-draft = false
+draft = true
 
 [search_engine_optimization]
 meta_description = """
