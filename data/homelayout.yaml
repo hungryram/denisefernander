@@ -69,9 +69,9 @@ information:
   subtitle: Mompreneur Success Academy
   heading: MOMpreneur's Roadmap To Success
   body: >-
-    Are you a **mom**, **entrepreneur** just getting started in business or been
-    in business for a while and you’ve done all things but you still aren’t
-    profitable?
+    Are you a **mom**, **entrepreneur,** in the coaching and wellness space,
+    just getting started in business or been in business for a while and you’ve
+    done all things but you still aren’t profitable?
 
 
     or
@@ -97,17 +97,20 @@ information:
 
 
     Let us help you get your business on the path to success\!
+
+
+    Here's how we can work together\!
   steps:
     - number: 1
       heading: Do-It-Yourself w/ The Business In A Box
-      body:
+      body: >-
+        This 7 module course will teach you how to put together and implement
+        the basic and necessary pieces of your value filled services and/or
+        product that your ideal clients need and are in search of right now.
+        You'll have all the tools and resources to get you in front of your
+        tribe and have them ready to get to their next level\!
       button_link:
-      button_label:
-    - number: 2
-      heading: CLEAR MESSAGING = MAKE MORE MONEY NOW 5 Day Challenge
-      body:
-      button_link:
-      button_label:
+      button_label: SIGN UP NOW!
     - number: 3
       heading: Roadmap To Success 30 Day Accelerator
       body:
