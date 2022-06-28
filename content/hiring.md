@@ -70,14 +70,14 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ###### &nbsp;
 
-##### **\- MUST be coachable.&nbsp;**<br>
+##### **\- MUST be coachable.&nbsp;**&lt;br&gt;
 
-##### **\- MUST speak English and reside in the USA**<br>
+##### **\- MUST speak English and reside in the USA**&lt;br&gt;
 
 ##### **\- 10% commission on each meeting set that becomes a sale. 20% once you become setter/closer.**
 
-##### <br>**\- Can easily make over $80,000 per year**<br>
+##### &lt;br&gt;**\- Can easily make over $80,000 per year**&lt;br&gt;
 
-##### **\- Monday - Friday - 8 hours/day (FULL TIME ONLY)&nbsp;**<br>
+##### **\- Monday - Friday - 8 hours/day (FULL TIME ONLY)&nbsp;**&lt;br&gt;
 
 ##### **\- Daily coaching provided.**
