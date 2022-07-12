@@ -29,7 +29,7 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ### **1\. Watch Video**
 
-# **[...](https://youtu.be/lopVITdhd2c)**
+# **<a target="_blank" rel="noopener" href="https://youtu.be/lopVITdhd2c">...</a>**
 
 #### &nbsp;
 
@@ -114,4 +114,4 @@ I've Paid Over 6 Figures In The Last 4 Years To Learn From The Best Sale Trainer
 
 **Schedule A Call Now\!**
 
-<a target="_blank" rel="noopener" href="https://calendly.com/mompreneursuccessacademy/30-minute-meeting">...</a>
+&lt;a target="\_blank" rel="noopener" href="[https://calendly.com/mompreneursuccessacademy/30-minute-meeting](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)"&gt;...&lt;/a&gt;
