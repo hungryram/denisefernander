@@ -137,6 +137,13 @@ a.secondary-btn {
     text-transform: uppercase;
     transition: .3s ease;
     font-weight: 500;
+    display: block;
+}
+
+@media screen and (max-width: 800px) {
+    a.secondary-btn {
+        font-size: 14px;
+    }
 }
 
 a.secondary-btn:hover {
