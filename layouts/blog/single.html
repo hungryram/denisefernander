@@ -4,7 +4,9 @@
         <div class="columns">
             <div class="column content is-three-fifths is-offset-one-fifth">
                 <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.featured_image }}" alt="{{ .Params.alt_tag }}" class="mb-6">
-                {{ .Content }}
+                <div class="editable">
+                    {{ .Content }}
+                </div>
                 {{ partial "templates/share" . }}
                 <!-- <div class="columns mt-6">
                     <div class="column">
