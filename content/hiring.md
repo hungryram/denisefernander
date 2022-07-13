@@ -25,7 +25,7 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ### <img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-7.png" width="7968" height="3072" />
 
-### **<a target="_blank" rel="noopener" href="https://calendly.com/mompreneursuccessacademy/30-minute-meeting">BOOK A CALL</a>**
+### **[BOOK A CALL](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)**
 
 ##### &nbsp;
 
