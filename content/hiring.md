@@ -11,19 +11,7 @@ We are looking to bring on 2 more appointment setters/sales for our growing Acce
 Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude. """
 +++
 
-## **Become A Remote Closer\!**
-
-###### &nbsp;
-
-### **All Training Provided\!**
-
-#### &nbsp;
-
-#### **ABSOLUTELY FREE\!**
-
-### &nbsp;
-
-### Not Here To Sell You Anything
+## <img src="/uploads/Become-A-Remote-Closer!-All-Training-Provided!-ABSOLUTELY-FREE!-Not-Here-To-Sell-You-Anything.png" width="6912" height="3456" />
 
 ###### &nbsp;
 
@@ -41,56 +29,20 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ###### &nbsp;
 
-### **Pick A Time Using The Button Below\!**
-
-###### &nbsp;
-
-##### [&nbsp;BECOME A CLOSER](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)
+### **<img src="/uploads/2.png" width="7968" height="3072" />**
 
 ## [Book A Call](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)
 
 ###### &nbsp;
 
-##### **\*\* LIMITED AVAILABILITY** - 5 CLOSERS WANTED\! **\*\***
-
-###### &nbsp;
-
-#### **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*ATTENTION\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
-
-##### &nbsp;
-
-##### **We are looking to bring on 5 more appointment setters/sales for our growing Accelerator Program who want to earn $80K+/year.**
+##### <img src="/uploads/3.png" width="7968" height="3072" />
 
 ###### &nbsp;
 
 * Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude.&nbsp;
 * All scripts, materials, and tools will be provided to you.
 
-##### **IMPORTANT Details…**
-
-###### &nbsp;
-
-##### **\- MUST be coachable.**
-
-###### &nbsp;
-
-##### **\- MUST speak English and reside in the USA**
-
-###### &nbsp;
-
-##### **\- 10% commission on each meeting set that becomes a sale. 20% once you become setter/closer.**
-
-###### &nbsp;
-
-##### **\- Can easily make over $80,000 per year**
-
-###### &nbsp;
-
-##### **\- Monday - Friday - 8 hours/day (FULL TIME ONLY)&nbsp;**
-
-###### &nbsp;
-
-##### **\- Daily coaching provided.**
+##### <img src="/uploads/4.png" width="7968" height="3072" />
 
 &nbsp;
 
