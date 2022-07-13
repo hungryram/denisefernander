@@ -2,6 +2,10 @@ baseURL = "https://www.mompreneursuccessacademy.com/"
 enableRobotsTXT = "true"
 languageCode = "en-us"
 summaryLength = 20
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 [[menu.main]]
 name = "Contact"
 url = "/contact"

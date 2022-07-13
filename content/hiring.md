@@ -29,7 +29,7 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ### **1\. Watch Video**
 
-<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/lopVITdhd2c" title=“YouTube video player” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lopVITdhd2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### &nbsp;
 
