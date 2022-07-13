@@ -11,15 +11,11 @@ We are looking to bring on 2 more appointment setters/sales for our growing Acce
 Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude. """
 +++
 
-## <img src="/uploads/Become-A-Remote-Closer!-All-Training-Provided!-ABSOLUTELY-FREE!-Not-Here-To-Sell-You-Anything.png" width="6912" height="3456" />
-
-###### &nbsp;
+## <img src="/uploads/1-1.png" width="7968" height="3072" />​​​​​​
 
 ### **1\. Watch Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lopVITdhd2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-#### &nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lopVITdhd2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>​​​​​​
 
 ### **2\. Follow Me On Instagram @MOMPRENEURSUCCESSACADEMY**
 
@@ -27,26 +23,17 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ### **3\. SCHEDULE AN INTERVIEW**
 
-###### &nbsp;
+### <img src="/uploads/2-1.png" width="7968" height="3072" />
 
-### **<img src="/uploads/2.png" width="7968" height="3072" />**
+##### &nbsp;
 
-## [<img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-5.png" width="7968" height="3072" />](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)
+###### <img src="/uploads/3-1.png" width="7968" height="3072" />
 
-###### &nbsp;
+<img src="/uploads/4-1.png" width="7968" height="3072" />
 
-##### <img src="/uploads/3.png" width="7968" height="3072" />
+##### <img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-6.png" width="7968" height="3072" />
 
-###### &nbsp;
-
-* Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude.&nbsp;
-* All scripts, materials, and tools will be provided to you.
-
-##### <img src="/uploads/4.png" width="7968" height="3072" />
-
-**<img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-2.png" width="7968" height="3072" />**
-
-What You Will Learn While Making Money?
+<img src="/uploads/6.png" width="7968" height="3072" />What You Will Learn While Making Money?
 
 **&nbsp;1) How To Prospect For High Ticket Clients Without Cold Calling**
 
