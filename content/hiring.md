@@ -33,7 +33,7 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 <img src="/uploads/4-1.png" width="7968" height="3072" />
 
-##### <img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-6.png" width="7968" height="3072" />
+##### <img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-8.png" width="7968" height="3072" />
 
 <img src="/uploads/6.png" width="7968" height="3072" />What You Will Learn While Making Money?
 
