@@ -29,7 +29,7 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ### **1\. Watch Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lopVITdhd2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lopVITdhd2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### &nbsp;
 
@@ -66,7 +66,7 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 * Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude.&nbsp;
 * All scripts, materials, and tools will be provided to you.
 
-##### **IMPORTANT Details...**
+##### **IMPORTANT Details…**
 
 ###### &nbsp;
 
@@ -106,12 +106,12 @@ Cold-Calling SUCKS\! I Will Never Make You Do It.&nbsp;
 
 **&nbsp;2) How To Qualify&nbsp;**
 
-Qualification Is The Most Important Step Of The Sales Process. If You're Speaking To Unqualified Leads, I Don't Care How Good You Are, You Will NEVER Close.
+Qualification Is The Most Important Step Of The Sales Process. If You’re Speaking To Unqualified Leads, I Don’t Care How Good You Are, You Will NEVER Close.
 
 **3) How To Close & Make MONEY&nbsp;**
 
-I've Paid Over 6 Figures In The Last 4 Years To Learn From The Best Sale Trainers In The World. All Of Which Will Be Passed On To You For FREE\!&nbsp;
+I’ve Paid Over 6 Figures In The Last 4 Years To Learn From The Best Sale Trainers In The World. All Of Which Will Be Passed On To You For FREE\!&nbsp;
 
 **Schedule A Call Now\!**
 
-&lt;a target="\_blank" rel="noopener" href="[https://calendly.com/mompreneursuccessacademy/30-minute-meeting](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)"&gt;...&lt;/a&gt;
+<a target="_blank" rel="noopener" href="https://calendly.com/mompreneursuccessacademy/30-minute-meeting">Click here to schedule</a>
