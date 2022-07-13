@@ -44,11 +44,7 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ##### <img src="/uploads/4.png" width="7968" height="3072" />
 
-&nbsp;
-
-&nbsp;
-
-**WATCH OUR VIDEO PRESENTATION AND BOOK A CALL WITH US IF YOU MEET THE REQUIREMENTS POSTED ABOVE:&nbsp;**[**http://mompreneursuccessacademy.com/hiring**](http://mompreneursuccessacademy.com/hiring)**&nbsp;**
+**<img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-2.png" width="7968" height="3072" />**
 
 What You Will Learn While Making Money?
 
