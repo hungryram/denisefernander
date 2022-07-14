@@ -33,7 +33,9 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 <img width="7968" height="3072" src="/uploads/4-2.png" /><img width="7968" height="3072" src="/uploads/5-2.png" />
 
-<img src="/uploads/6-1.png" width="7968" height="3072" /><img width="7968" height="3072" src="/uploads/7-1.png" />What You Will Learn While Making Money?
+<img src="/uploads/6-1.png" width="7968" height="3072" /><img width="7968" height="3072" src="/uploads/7-1.png" />
+
+What You Will Learn While Making Money?
 
 **&nbsp;1) How To Prospect For High Ticket Clients Without Cold Calling**
 
