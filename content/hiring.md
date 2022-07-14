@@ -11,7 +11,7 @@ We are looking to bring on 2 more appointment setters/sales for our growing Acce
 Experienced Appointment Setters/Sales are preferred but will train the right person with the right work ethic and attitude. """
 +++
 
-## <img src="/uploads/1-1.png" width="7968" height="3072" />​​​​​​
+## <img width="7968" height="3072" src="/uploads/1-2.png" />​​​​​​
 
 ### **1\. Watch Video**
 
@@ -23,19 +23,17 @@ Experienced Appointment Setters/Sales are preferred but will train the right per
 
 ### **3\. SCHEDULE AN INTERVIEW**
 
-### <img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-9.png" width="7968" height="3072" />
+### <img width="7968" height="3072" src="/uploads/2-2.png" />
 
 # **[BOOK A CALL](https://calendly.com/mompreneursuccessacademy/30-minute-meeting)**
 
 ##### &nbsp;
 
-###### <img src="/uploads/3-1.png" width="7968" height="3072" />
+###### <img width="7968" height="3072" src="/uploads/3-2.png" />
 
-<img src="/uploads/4-1.png" width="7968" height="3072" />
+<img width="7968" height="3072" src="/uploads/4-2.png" /><img width="7968" height="3072" src="/uploads/5-2.png" />
 
-##### <img src="/uploads/become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-8.png" width="7968" height="3072" />
-
-<img src="/uploads/6.png" width="7968" height="3072" />What You Will Learn While Making Money?
+<img src="/uploads/6-1.png" width="7968" height="3072" /><img width="7968" height="3072" src="/uploads/7-1.png" />What You Will Learn While Making Money?
 
 **&nbsp;1) How To Prospect For High Ticket Clients Without Cold Calling**
 
