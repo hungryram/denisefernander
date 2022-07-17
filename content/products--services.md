@@ -23,7 +23,11 @@ A 12 step framework to starting your business and getting past overwhelm & frust
 
 For the mom online business coach who is struggling to figure out all the “things” and the steps to building a brand and business that generates streamlined income on repeat.
 
-Are you ready to stop lying awake at night trying to figure out what to do next in your business or are you struggling to show up confidently&nbsp;
+Are you ready to stop lying awake at night trying to figure out what to do next in your business or are you struggling to show up confidently\!
+
+<img src="/uploads/add-a-little-bit-of-body-text.png" width="6912" height="3456" />&nbsp;
+
+&nbsp;
 
 <img src="/uploads/business-in-a-box---rectangle-logo---large-font---mompreneur-success-academy.png" width="1200" height="300" />
 
