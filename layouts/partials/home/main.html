@@ -1,4 +1,3 @@
-
 {{ $hero := .Site.Data.homelayout.hero_image }}
 {{ partial "global/navbar" . }}
 
@@ -8,12 +7,16 @@
             <div class="columns">
                 <div class="column is-half has-text-white">
                     <h2 class="subtitle editable" style="color: #ef9fb4;font-size: 4em;">
-                       {{ $hero.subtitle }}
+                    	Welcome to
                     </h2>
-                    <h1 class="title is-3 has-text-black editable">{{ $hero.heading }}</h1>
+                    <h1 class="title is-3 has-text-black editable">
+                    	MOMpreneur Success Academy
+                    </h1>
     
-                    <p class="editable">{{ $hero.body | markdownify }}</p>
-                    <br>
+                    <p class="editable">
+                    	<strong>We help mom, online wellness or life coaches who are starting a business with messaging and go to marketing plans so that they can start making money now!</strong>
+                    </p>
+                    <br />
                     {{ if $hero.link }}
                     <div class="is-block">
                       <a href="{{ $hero.link }}" target="_blank" class="primary-btn">{{ $hero.link_text }}</a>
