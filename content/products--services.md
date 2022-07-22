@@ -43,9 +43,11 @@ Forget about having to guess which of the “things” (social media posts, blog
 
 **Drop trying to do them ALL\!&nbsp;**
 
-Don’t spend all of your money on ads and expensive posts.
+Don’t randomly spend all of your money on ads and expensive posts if your ideal client and/customer can't clearly understand how you can help them.
 
-**Get all of this for only $797:**
+**Instead, first focus your efforts on building your Business' Foundation and then getting in front of the people who need you. **
+
+**Here's what you will have access to:**
 
 ✓ **Mindset & Vision Coaching** ($300 Value)
 
