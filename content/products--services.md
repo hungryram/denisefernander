@@ -11,7 +11,7 @@ Accelerator - Get 90 days of 1:1 AND small group coaching.  You also have access
 Business In A Box - A DIY option that will get you up and going to your best quarter with all of the resources and tools you need to get going."""
 +++
 
-<img src="/uploads/roadmap-to-success-accelerator---rectangle-logo---mompreneur-success-academy-4-×-3-in.png" width="1200" height="900" />ATTRACT & ENGAGE YOUR IDEAL CLIENTS ON AUTOPILOT
+<img width="1200" height="900" src="/uploads/roadmap-to-success-accelerator---rectangle-logo---mompreneur-success-academy-4-×-3-in.png" />ATTRACT & ENGAGE YOUR IDEAL CLIENTS ON AUTOPILOT
 
 **Exclusive Messaging Workshop with Denise Fernander**
 
@@ -23,13 +23,11 @@ A 12 step framework to starting your business and getting past overwhelm & frust
 
 For the mom online business coach who is struggling to figure out all the “things” and the steps to building a brand and business that generates streamlined income on repeat.
 
-Are you ready to stop lying awake at night trying to figure out what to do next in your business or are you struggling to show up confidently\!
+Are you ready to stop lying awake at night trying to figure out what to do next in your business or are you struggling to show up confidently\!![](/uploads/add-a-little-bit-of-body-text.png)&nbsp;<img src="/uploads/copy-of-become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything.png" width="7968" height="3072" /><img src="/uploads/copy-of-become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-2.png" width="7968" height="3072" /><img src="/uploads/copy-of-become-a-remote-closer-all-training-provided-absolutely-free-not-here-to-sell-you-anything-4.png" width="7968" height="3072" />
 
-<img src="/uploads/add-a-little-bit-of-body-text.png" width="6912" height="3456" />&nbsp;
+![](/uploads/sai-de-silva-4-gFGb12hFA-unsplash.jpg)
 
-&nbsp;
-
-<img src="/uploads/business-in-a-box---rectangle-logo---large-font---mompreneur-success-academy.png" width="1200" height="300" />
+<img width="1200" height="300" src="/uploads/business-in-a-box---rectangle-logo---large-font---mompreneur-success-academy.png" />
 
 Business In A Box has helped mom, entrepreneurs who are wellness practitioners and coaches build and grow their business to multi-figures while managing their family and home life by using a framework centered around clear messaging, laser focused marketing and proven monetization strategies.
 
