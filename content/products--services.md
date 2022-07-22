@@ -1,5 +1,5 @@
 +++
-title = "HOW WE CAN HELP YOU"
+title = "WORK WITH US"
 featured_image = "/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-2.png"
 draft = false
 
