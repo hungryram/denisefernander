@@ -1,5 +1,5 @@
 +++
-title = "MOMpreneur Success Academy"
+title = "About"
 url = "/mompreneur-success-academy"
 draft = false
 
