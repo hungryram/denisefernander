@@ -2,6 +2,10 @@
 title = "MOMpreneur Success Podcast"
 
 [[podcasts]]
+podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSPS3E01.mp3"
+podcast_name = "Season 3, Season 1 with Naa Ardua Frohic"
+
+[[podcasts]]
 podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP008.mp3"
 podcast_name = "Season 2, Episode 8 with Linda Lederman"
 
@@ -68,10 +72,6 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 [[podcasts]]
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
-
-[[podcasts]]
-podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSPS3E01.mp3"
-podcast_name = "Season 3, Season 1 with Naa Ardua Frohic"
 
 [search_engine_optimization]
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
