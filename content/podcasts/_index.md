@@ -3,7 +3,7 @@ title = "MOMpreneur Success Podcast"
 
 [[podcasts]]
 podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSPS3E01.mp3"
-podcast_name = "Season 3, Season 1 with Naa Ardua Frohic"
+podcast_name = "Season 3, Episode 1 with Naa Ardua Frohic"
 
 [[podcasts]]
 podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSP008.mp3"
