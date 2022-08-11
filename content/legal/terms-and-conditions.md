@@ -1,9 +1,8 @@
 +++
-last_update = "November 12, 2020"
+last_update = "August 11, 2022"
 meta_description = ""
 title = "Terms and Conditions"
 title_tag = ""
-
 +++
 ##### Access to the website
 
