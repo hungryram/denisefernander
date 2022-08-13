@@ -77,6 +77,10 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
 
+[[podcasts]]
+podcast_link = "https://traffic.libsyn.com/mompreneursuccesspodcast/MOMSPSE3003.mp3"
+podcast_name = "Season 3, Episode 3 with Janeah Davis"
+
 [search_engine_optimization]
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
