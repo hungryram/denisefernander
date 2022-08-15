@@ -1,9 +1,10 @@
 enable_pop_up: true
 title: MOMpreneur Success Academy
-heading: Welcome to MOMpreneur Success Academy
+heading: GET ON THE LIST!
 body: >-
-  Get your free copy of the MOMpreneur's Roadmap To Success, learn about our
-  products and services, and access free resources and business tips\!
+  Receive your copy of the MOMpreneur's Roadmap To Success, get regular business
+  tips, new podcast episodes, resources, and inspiration as you build and grow
+  your business\!
 pop_up_options:
   enable_email_field: true
   form_name: Email Subscription Sign Up
