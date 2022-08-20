@@ -11,6 +11,6 @@ meta_description = "Are you a mom with a business idea? Get past overwhelm and f
 
 &nbsp;
 
-<img src="/uploads/1-5.png" width="7968" height="3072" />
+<img src="/uploads/rts-download-1.png" width="7968" height="3072" />
 
 <img src="/uploads/3-3.png" width="7968" height="3072" />
