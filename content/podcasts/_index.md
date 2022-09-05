@@ -89,6 +89,10 @@ podcast_name = "Season 1, Episode 1 with host, Denise Fernander"
 podcast_link = "https://mompreneursuccesspodcast.libsyn.com/mompreneur-success-podcast-promo"
 podcast_name = "MOMpreneur Success Podcast - About"
 
+[[podcasts]]
+podcast_link = "https://mompreneursuccesspodcast.libsyn.com/a-habit-of-documenting-your-processes-paying-yourself-first-trusting-your-gut"
+podcast_name = "Season 3, Episode 6 with Emma Ferrick"
+
 [search_engine_optimization]
 title_tag = "Podcast Episodes by Denise Fernander - MOMpreneur Success Academy"
 meta_description = "Welcome to podcasts by Denise Fernander. Click here to listen to recent episodes of the MOMpreneur Success Podcast!"
