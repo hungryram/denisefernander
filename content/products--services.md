@@ -1,7 +1,7 @@
 +++
 title = "Work With Us"
 featured_image = "/uploads/copy-of-copy-of-rectangle-logo---mompreneur-success-academy-2.png"
-draft = false
+draft = true
 
 [search_engine_optimization]
 title_tag = "Roadmap To Success Accelerator - Business In A Box"
@@ -10,7 +10,6 @@ Accelerator - Get 90 days of 1:1 AND small group coaching.  You also have access
 
 Business In A Box - A DIY option that will get you up and going to your best quarter with all of the resources and tools you need to get going."""
 +++
-
 <img width="1200" height="900" src="/uploads/roadmap-to-success-accelerator---rectangle-logo---mompreneur-success-academy-4-×-3-in.png" />ATTRACT & ENGAGE YOUR IDEAL CLIENTS ON AUTOPILOT
 
 **Exclusive Messaging Workshop with Denise Fernander**
